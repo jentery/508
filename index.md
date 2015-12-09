@@ -49,7 +49,7 @@ What's your -ism?
 
 Notebook: Select an -ism you wish to study throughout the term as well as a key text (poem, manifesto, fiction) representing that -ism. Ideally, this text will have significant or notable design elements. Thoroughly describe the aesthetic (style, composition, materials), political (ideologies, representations, biases), and cultural (community, modes of expression) contexts of your text.  
 
-## Week 4 | 25 January | Make It Page Images. 
+## Week 4 | 25 January | Image It.  
 
 When is text also image? How are screens entangled in interpretation? 
 
@@ -121,7 +121,7 @@ Notebook: Repair your redacted, glitched text. Interpret the text as a repaired 
 
 No seminar. This is Easter Monday.  
 
-## Week 14 | 4 April | Make it _______. 
+## Week 14 | 4 April | ______ It. 
 
 It's your turn. Looking forward to hearing your ideas and seeing your prototypes! 
 
