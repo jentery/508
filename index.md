@@ -1,4 +1,4 @@
-# English 508 | Prototyping Texts in a Whiz-Bang World: Fine-Grained Interpretation through Low-Tech Alteration   
+# English 508 | Prototyping Texts: Interpretation through Alteration   
 Jentery Sayers | University of Victoria | Spring 2016
 
 In both theory and practice, this seminar brushes against four popular assumptions about digital humanities: 1) as a service to researchers, the field merely develops digital resources for online discovery and builds computational tools for end-users; it does not interpret texts or meaningfully engage with "pre-digital" traditions in literary and cultural criticism; 2) digital humanities is not concerned with the literary or aesthetic character of texts; it is a techno-solutionist byproduct of instrumentalism and big data; 3) digital humanities practitioners replace cultural perspectives with uncritical computer vision; instead of privileging irony or ambivalence, they use computers to "prove" reductive claims about literature and culture, usually through graphs and totalizing visualizations; and 4) to participate in the field, you must be fluent in computer programming, or at least be willing to treat literature and culture quantitatively; if you are not a programmer, then you are not doing digital humanities.
@@ -27,7 +27,7 @@ Somewhere between design studies and literary studies, we will conduct a series 
 
 ## Schedule 
 
-### Week 1 | 4 January | Fine-Grained Interpretation through Low-Tech Alteration
+## Week 1 | 4 January | Fine-Grained Interpretation through Low-Tech Alteration
 
 Why interpret texts by altering them? What are some low-tech approaches to prototyping and interpreting texts in a whiz-bang world? How do we think about design and fiction together? 
 
