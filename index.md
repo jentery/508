@@ -65,7 +65,7 @@ Read: Schnapp, "Small Data: The Intimate Lives of Cultural Objects"
 
 Notebook: Articulate ten metadata fields for your text and provide data for each field. Interpet the text as metadata.  
 
-## Week 6 | 8 February 
+## Week 6 | 8 February | Holiday
 
 No seminar. This is Family Day.  
 
@@ -117,7 +117,7 @@ Read: Selections from Sedgwick, [*Touching Feeling*](https://www.dukeupress.edu/
 
 Notebook: Repair your redacted, glitched text. Interpret the text as a repaired object.    
 
-## Week 13 | 28 March 
+## Week 13 | 28 March | Holiday
 
 No seminar. This is Easter Monday.  
 
