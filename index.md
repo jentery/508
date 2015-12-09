@@ -40,6 +40,7 @@ Background: Balsamo, ["Design"](http://www.mitpressjournals.org/doi/abs/10.1162/
 Between the 1870s and 1970s, what are some notable -isms operating across art, culture, and politics? How were these -isms designed? 
 
 Read: Selections from Caws, [*Manifesto*](http://uvic.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42JgAfZbU5khZ9tYGACbB8A-gxkng4xvImi1BrBJY6XgqOAMKVIV8tMUPItzi7kZwtxcQ5w9dKE3AOgmGoM2SumCzt9KTTRPTrVIMzZOAbZdkg1TjFNS05JMzYF1taWpqYVRikka0IaU1ERgxWOYaGGWZpliCZ6eAnbQQVfiqkIMRp1Ujk8EDevHBwGdZ24G7AIYAQA8DDHD) | Collection of -isms | [Digital Manifesto Archive](http://www.digitalmanifesto.net/manifestos/) | [Modernist Journals Project](http://modjourn.org/) 
+
 Notebook: Take notes on your general impressions of at least five -isms. 
 
 ## Week 3 | 18 January | Pick an -Ism.
@@ -53,6 +54,7 @@ Notebook: Select an -ism you wish to study throughout the term as well as a key 
 When is text also image? How are screens entangled in interpretation? 
 
 Read: Selections from Drucker, [*Figuring the Word*](http://www.granarybooks.com/books/drucker3/drucker3.1.html)
+
 Notebook: Digitize or acquire your text as a series of page images (TIFF, JPG, PNG). Interpret the text as image on a screen. 
 
 ## Week 5 | 1 February | Make It Metadata. 
@@ -60,6 +62,7 @@ Notebook: Digitize or acquire your text as a series of page images (TIFF, JPG, P
 When is text merely its description? Where is metadata beyond keeping texts found?  
 
 Read: Schnapp, "Small Data: The Intimate Lives of Cultural Objects"
+
 Notebook: Articulate ten metadata fields for your text and provide data for each field. Interpet the text as metadata.  
 
 ## Week 6 | 8 February 
@@ -71,6 +74,7 @@ No seminar. This is Family Day.
 Why would we ever want plain text? How is text processed? 
 
 Read: Selections from Tenen, *Plain Text*  
+
 Notebook: Generate an ASCII, or plain text, version of your text, removing all formatting. Interpret the text as plain text. Then encode your text in HTML5. Interpret it as markup. 
 
 ## Week 8 | 22 February | Change the Typeface. Print + Assemble It.
@@ -78,6 +82,7 @@ Notebook: Generate an ASCII, or plain text, version of your text, removing all f
 What is the relation between print and digital typography? How do we think about them together? 
 
 Read: Selections from Bringhurst, [*The Elements of Typographic Style*](http://uvic.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42JgAfZbU5khZ9tYWAAj3Ag888YFig9glFuCrizmAJ1LZQxMLBzQuDcEFZJGphacDIrA8FFIhaydLlbIT1MoqSyAnN6cmaxQXFIJKjal3VxDnD10QftQ4qHDHPGGxqYGRpagmyVVIbKo08jxiaCB_PggA2CDwMzSFLTRCJ8pAHNINns) 
+
 Notebook: Change the typeface of your text, print it, and assemble it as a booklet. Intepret the text as type.  
 
 ## Week 9 | 29 February | Make It a Form. 
@@ -85,6 +90,7 @@ Notebook: Change the typeface of your text, print it, and assemble it as a bookl
 When and why do texts become documents? How do they gather and store information? 
 
 Read: Selections from Gitelman, [*Paper Knowledge*](https://www.dukeupress.edu/Paper-Knowledge/) 
+
 Notebook: Convert your text into a fillable form. Have at least three other people complete it. Interpret the text as a document.   
 
 ## Week 10 | 7 March | Reverse It. 
@@ -92,6 +98,7 @@ Notebook: Convert your text into a fillable form. Have at least three other peop
 How are texts treated as performances? How is text welded to reading? 
 
 Read: Samuels and McGann, ["Deformance and Interpretation"](http://www.jstor.org.ezproxy.library.uvic.ca/stable/20057521?seq=1#page_scan_tab_contents)
+
 Notebook: Reverse the order of your text. Read it backward. Interpret the text as a performance.   
 
 ## Week 11 | 14 March | Redact It. Glitch It. 
@@ -99,6 +106,7 @@ Notebook: Reverse the order of your text. Read it backward. Interpret the text a
 How are texts become what's missing? How do they surprise?  
 
 Read: Craze, ["In the Dead Letter Office"](http://static1.squarespace.com/static/535dcd87e4b08cab3cb3e421/t/560afc96e4b0bd9a7a2d6894/1443560598997/In+the+Dead+Letter+Office.pdf); Menkman, ["Vernacular of File Formats"](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
+
 Notebook: Hide, mask, or erase aspects of your text. Intepret the text as a redacted text. Now repeatedly compress and bend your text. Interpret the text as a glitch. 
 
 ## Week 12 | 21 March | Repair It. 
@@ -106,6 +114,7 @@ Notebook: Hide, mask, or erase aspects of your text. Intepret the text as a reda
 How do we conduct reparative readings of texts? To what affect on suspicion? 
 
 Read: Selections from Sedgwick, [*Touching Feeling*](https://www.dukeupress.edu/Touching-Feeling/index-viewby=subject&categoryid=44&sort=author.html) 
+
 Notebook: Repair your redacted, glitched text. Interpret the text as a repaired object.    
 
 ## Week 13 | 28 March 
