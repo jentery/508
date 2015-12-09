@@ -35,19 +35,25 @@ Somewhere between design studies and literary studies, we will conduct a series 
 
 Why interpret texts by altering them? What are some low-tech approaches to prototyping and interpreting texts in a whiz-bang world? How do we think about design and fiction together? 
 
-Background: Balsamo, ["Design"](http://www.mitpressjournals.org/doi/abs/10.1162/ijlm_a_00036#.Vmd_vOMrIzK) | Barad, [*Meeting the Universe Halfway*](https://www.dukeupress.edu/meeting-the-universe-halfway) | Drucker and Nowviskie, ["Speculative Computing"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-10) | Jackson, ["Rethinking Repair"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-10) | Kraus, ["Conjectural Criticism"](http://digitalhumanities.org/dhq/vol/3/4/000069/000069.html) | Rosner and Ames, ["Designing for Repair"](http://people.ischool.berkeley.edu/~daniela/files/cscw14-rosner-repair.pdf) | Sterling, ["Design Fiction"](http://dl.acm.org/citation.cfm?id=1516021) (no need to read any of these in advance)
+Background: Balsamo, ["Design"](http://www.mitpressjournals.org/doi/abs/10.1162/ijlm_a_00036#.Vmd_vOMrIzK) | Barad, [*Meeting the Universe Halfway*](https://www.dukeupress.edu/meeting-the-universe-halfway) | Drucker and Nowviskie, ["Speculative Computing"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-10) | Jackson, ["Rethinking Repair"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-10) | Kraus, ["Conjectural Criticism"](http://digitalhumanities.org/dhq/vol/3/4/000069/000069.html) | Rosner and Ames, ["Designing for Repair"](http://people.ischool.berkeley.edu/~daniela/files/cscw14-rosner-repair.pdf) | Sample, ["Closed Bots and Green Bots"](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) | Sterling, ["Design Fiction"](http://dl.acm.org/citation.cfm?id=1516021) (no need to read any of these in advance)
 
 ## Week 2 | 11 January | Survey Some -Isms.
 
 Between the 1870s and 1970s, what are some notable -isms operating across art, culture, and politics? How were these -isms designed? 
 
-Read: Selections from Caws, [*Manifesto*](http://uvic.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42JgAfZbU5khZ9tYGACbB8A-gxkng4xvImi1BrBJY6XgqOAMKVIV8tMUPItzi7kZwtxcQ5w9dKE3AOgmGoM2SumCzt9KTTRPTrVIMzZOAbZdkg1TjFNS05JMzYF1taWpqYVRikka0IaU1ERgxWOYaGGWZpliCZ6eAnbQQVfiqkIMRp1Ujk8EDevHBwGdZ24G7AIYAQA8DDHD) | Collection of -isms | [Digital Manifesto Archive](http://www.digitalmanifesto.net/manifestos/) | [Modernist Journals Project](http://modjourn.org/) 
+Workshop: Sharing digital files for this seminar (FTP, GitHub, Drive, Tumblr) 
 
-Notebook: Take notes on your general impressions of at least five -isms. 
+Read: Selections from Caws, [*Manifesto*](http://uvic.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42JgAfZbU5khZ9tYGACbB8A-gxkng4xvImi1BrBJY6XgqOAMKVIV8tMUPItzi7kZwtxcQ5w9dKE3AOgmGoM2SumCzt9KTTRPTrVIMzZOAbZdkg1TjFNS05JMzYF1taWpqYVRikka0IaU1ERgxWOYaGGWZpliCZ6eAnbQQVfiqkIMRp1Ujk8EDevHBwGdZ24G7AIYAQA8DDHD) | Collection of -isms (PDF) | [Digital Manifesto Archive](http://www.digitalmanifesto.net/manifestos/) | [Modernist Journals Project](http://modjourn.org/) 
+
+Notebook: Take notes on your general impressions of at least five -isms. Please attend to the politics and aesthetics of each -ism, with notes on the historical particulars of when each occurred and why. 
+
+Lecture on campus this week: Andrew Stauffer (English, University of Virginia) 
 
 ## Week 3 | 18 January | Pick an -Ism.
 
 What's your -ism? 
+
+Workshop: In-class presentations (five minutes each, plus Q&A) 
 
 Notebook: Select an -ism you wish to study throughout the term as well as a key text (poem, manifesto, fiction) representing that -ism. Ideally, this text will have significant or notable design elements. Thoroughly describe the aesthetic (style, composition, materials), political (ideologies, representations, biases), and cultural (community, modes of expression) contexts of your text.  
 
@@ -55,15 +61,19 @@ Notebook: Select an -ism you wish to study throughout the term as well as a key 
 
 When is text also image? How are screens entangled in interpretation? 
 
-Read: Selections from Drucker, [*Figuring the Word*](http://www.granarybooks.com/books/drucker3/drucker3.1.html)
+Workshop: Intro to metadata (including Dublin Core) 
 
-Notebook: Digitize or acquire your text as a series of page images (TIFF, JPG, PNG). Interpret the text as image on a screen. 
+Read: Selections from Drucker, [*Figuring the Word*](http://www.granarybooks.com/books/drucker3/drucker3.1.html) (PDF)
+
+Notebook: Digitize or acquire your text as a series of page images (TIFF, JPG, PNG). Interpret the text as an image on a screen. 
 
 ## Week 5 | 1 February | Make It Metadata. 
 
-When is text merely its description? Where is metadata beyond keeping texts found?  
+When is text merely its description? What does metadata do beyond keeping texts found?  
 
-Read: Schnapp, "Small Data: The Intimate Lives of Cultural Objects"
+Workshop: On ASCII and plain text; also, composing with HTML5
+
+Read: Schnapp, "Small Data: The Intimate Lives of Cultural Objects" (PDF) 
 
 Notebook: Articulate ten metadata fields for your text and provide data for each field. Interpet the text as metadata.  
 
@@ -73,9 +83,11 @@ No seminar. This is Family Day.
 
 ## Week 7 | 15 February | Make It ASCII. Mark It Up.  
 
-Why would we ever want plain text? How is text processed? 
+What does plain text do? How is it processed? 
 
-Read: Selections from Tenen, *Plain Text*  
+Woerkshop: On typefaces and fonts 
+
+Read: Selections from Tenen, *Plain Text* (PDF)
 
 Notebook: Generate an ASCII, or plain text, version of your text, removing all formatting. Interpret the text as plain text. Then encode your text in HTML5. Interpret it as markup. 
 
@@ -83,7 +95,9 @@ Notebook: Generate an ASCII, or plain text, version of your text, removing all f
 
 What is the relation between print and digital typography? How do we think about them together? 
 
-Read: Selections from Bringhurst, [*The Elements of Typographic Style*](http://uvic.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42JgAfZbU5khZ9tYWAAj3Ag888YFig9glFuCrizmAJ1LZQxMLBzQuDcEFZJGphacDIrA8FFIhaydLlbIT1MoqSyAnN6cmaxQXFIJKjal3VxDnD10QftQ4qHDHPGGxqYGRpagmyVVIbKo08jxiaCB_PggA2CDwMzSFLTRCJ8pAHNINns) 
+Working: Making forms 
+
+Read: Selections from Bringhurst, [*The Elements of Typographic Style*](http://uvic.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42JgAfZbU5khZ9tYWAAj3Ag888YFig9glFuCrizmAJ1LZQxMLBzQuDcEFZJGphacDIrA8FFIhaydLlbIT1MoqSyAnN6cmaxQXFIJKjal3VxDnD10QftQ4qHDHPGGxqYGRpagmyVVIbKo08jxiaCB_PggA2CDwMzSFLTRCJ8pAHNINns) (PDF) | See also, Lupton, [*Thinking with Type*](http://thinkingwithtype.com/)
 
 Notebook: Change the typeface of your text, print it, and assemble it as a booklet. Intepret the text as type.  
 
@@ -91,13 +105,15 @@ Notebook: Change the typeface of your text, print it, and assemble it as a bookl
 
 When and why do texts become documents? How do they gather and store information? 
 
-Read: Selections from Gitelman, [*Paper Knowledge*](https://www.dukeupress.edu/Paper-Knowledge/) 
+Read: Selections from Gitelman, [*Paper Knowledge*](https://www.dukeupress.edu/Paper-Knowledge/) (PDF) 
 
 Notebook: Convert your text into a fillable form. Have at least three other people complete it. Interpret the text as a document.   
 
 ## Week 10 | 7 March | Reverse It. 
 
-How are texts treated as performances? How is text welded to reading? 
+How are texts also performances? How is text welded to reading? 
+
+Workshop: On bots and databending 
 
 Read: Samuels and McGann, ["Deformance and Interpretation"](http://www.jstor.org.ezproxy.library.uvic.ca/stable/20057521?seq=1#page_scan_tab_contents)
 
@@ -105,15 +121,21 @@ Notebook: Reverse the order of your text. Read it backward. Interpret the text a
 
 ## Week 11 | 14 March | Redact It. Glitch It. 
 
-How are texts become what's missing? How do they surprise?  
+How are texts what's missing? How might their materiality surprise us? 
+
+Workshop: Ways to repair texts
 
 Read: Craze, ["In the Dead Letter Office"](http://static1.squarespace.com/static/535dcd87e4b08cab3cb3e421/t/560afc96e4b0bd9a7a2d6894/1443560598997/In+the+Dead+Letter+Office.pdf); Menkman, ["Vernacular of File Formats"](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
 
-Notebook: Hide, mask, or erase aspects of your text. Intepret the text as a redacted text. Now repeatedly compress and bend your text. Interpret the text as a glitch. 
+Notebook: Hide, mask, or erase aspects of your text. Intepret the text as a redacted text. Now repeatedly compress and bend your text. Interpret the text as a glitch. If you wish, then feel free to turn your text into a bot, too. 
+
+Lecture on campus this week: Daniela Rosner (Human Centered Design and Engineering, University of Washington) 
 
 ## Week 12 | 21 March | Repair It. 
 
-How do we conduct reparative readings of texts? To what affect on suspicion? 
+How do we conduct reparative readings of texts? To what effect on legacies of suspicion in critical practice? 
+
+Workshop: Presenting your work 
 
 Read: Selections from Sedgwick, [*Touching Feeling*](https://www.dukeupress.edu/Touching-Feeling/index-viewby=subject&categoryid=44&sort=author.html) 
 
@@ -127,8 +149,10 @@ No seminar. This is Easter Monday.
 
 It's your turn. Looking forward to hearing your ideas and seeing your prototypes! 
 
+Workshop: In-class presentations (8-10 minutes each) 
+
 Notebook: Cook up your own exercise. Run an experiment. Interpret the results. Present them during seminar.  
 
 ## Week 15 | Portfolio 
 
-Please compile all of your materials, across tactile and digital media, into a portfolio using an approach of your choice. With the portfolio, include a brief cover letter describing the effects of your various alterations. Please note: a cover letter is not a seminar paper or journal article. For the purposes of this seminar, it should describe, reflect, and project, not analyze, deconstruct, or interrogate.   
+Please compile all of your digital and tactile materials into a portfolio using an approach of your choice. With the portfolio, include a brief cover letter describing the effects of your various alterations. Please note: a cover letter is not a seminar paper or journal article. For the purposes of this seminar, it should describe, reflect, and project, not analyze, deconstruct, or interrogate.   
