@@ -85,7 +85,7 @@ No seminar. This is Family Day.
 
 What does plain text do? How is it processed? 
 
-Woerkshop: On typefaces and fonts 
+Workshop: On typefaces and fonts 
 
 Read: Selections from Tenen, *Plain Text* (PDF)
 
@@ -95,7 +95,7 @@ Notebook: Generate an ASCII, or plain text, version of your text, removing all f
 
 What is the relation between print and digital typography? How do we think about them together? 
 
-Working: Making forms 
+Workshop: Making forms 
 
 Read: Selections from Bringhurst, [*The Elements of Typographic Style*](http://uvic.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42JgAfZbU5khZ9tYWAAj3Ag888YFig9glFuCrizmAJ1LZQxMLBzQuDcEFZJGphacDIrA8FFIhaydLlbIT1MoqSyAnN6cmaxQXFIJKjal3VxDnD10QftQ4qHDHPGGxqYGRpagmyVVIbKo08jxiaCB_PggA2CDwMzSFLTRCJ8pAHNINns) (PDF) | See also, Lupton, [*Thinking with Type*](http://thinkingwithtype.com/)
 
@@ -103,7 +103,7 @@ Notebook: Change the typeface of your text, print it, and assemble it as a bookl
 
 ## Week 9 | 29 February | Make It a Form. 
 
-When and why do texts become documents? How do they gather and store information? 
+When and why do texts become documents? How do they gather and store information? How do they exhibit traces of use? 
 
 Read: Selections from Gitelman, [*Paper Knowledge*](https://www.dukeupress.edu/Paper-Knowledge/) (PDF) 
 
