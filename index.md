@@ -159,4 +159,4 @@ Please compile all of your digital and tactile materials into a portfolio using 
 
 ## Acknowledgments 
 
-I would like to thank Kari Kraus and Bill Turkel, whose work deeply informs this course, which was also inspired by Herbert Blau's "Traditions of the Avant-Garde" seminar at the University of Washington. 
+I would like to thank Kari Kraus and Bill Turkel, whose work deeply informs this course, which was also inspired by Herbert Blau's "Traditions of the Avant-Garde" seminar (2005) at the University of Washington. 
