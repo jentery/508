@@ -35,7 +35,7 @@ Somewhere between design studies and literary studies, we will conduct a series 
 
 Why interpret texts by altering them? What are some low-tech approaches to prototyping and interpreting texts in a whiz-bang world? How do we think about design and fiction together? 
 
-Background: Balsamo, ["Design"](http://www.mitpressjournals.org/doi/abs/10.1162/ijlm_a_00036#.Vmd_vOMrIzK) | Barad, [*Meeting the Universe Halfway*](https://www.dukeupress.edu/meeting-the-universe-halfway) | Drucker and Nowviskie, ["Speculative Computing"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-10) | Jackson, ["Rethinking Repair"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-10) | Kraus, ["Conjectural Criticism"](http://digitalhumanities.org/dhq/vol/3/4/000069/000069.html) | Rosner and Ames, ["Designing for Repair"](http://people.ischool.berkeley.edu/~daniela/files/cscw14-rosner-repair.pdf) | Sample, ["Closed Bots and Green Bots"](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) | Sterling, ["Design Fiction"](http://dl.acm.org/citation.cfm?id=1516021) (no need to read any of these in advance)
+Background: Balsamo, ["Design"](http://www.mitpressjournals.org/doi/abs/10.1162/ijlm_a_00036#.Vmd_vOMrIzK) | Barad, [*Meeting the Universe Halfway*](https://www.dukeupress.edu/meeting-the-universe-halfway) | Drucker and Nowviskie, ["Speculative Computing"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-10) |  Guilford’s Alternative Uses Task (1967) | Jackson, ["Rethinking Repair"](http://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf) | Kraus, ["Conjectural Criticism"](http://digitalhumanities.org/dhq/vol/3/4/000069/000069.html) | Rosner and Ames, ["Designing for Repair"](http://people.ischool.berkeley.edu/~daniela/files/cscw14-rosner-repair.pdf) | Sample, ["Closed Bots and Green Bots"](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) | Sterling, ["Design Fiction"](http://dl.acm.org/citation.cfm?id=1516021) (no need to read any of these in advance)
 
 ## Week 2 | 11 January | Survey Some -Isms.
 
@@ -59,11 +59,11 @@ Notebook: Select an -ism you wish to study throughout the term as well as a key 
 
 ## Week 4 | 25 January | Image It.  
 
-When is text also image? How are screens entangled in interpretation? 
+When is text also image? When do images resist translation into text? How are screens and pages entangled in interpretation? 
 
 Workshop: Intro to metadata (including Dublin Core) 
 
-Read: Selections from Drucker, [*Figuring the Word*](http://www.granarybooks.com/books/drucker3/drucker3.1.html) (PDF)
+Read: Selections from Drucker, [*Figuring the Word*](http://www.granarybooks.com/books/drucker3/drucker3.1.html) (PDF) | See also Mitchell, "What Do Pictures 'Really' Want?" 
 
 Notebook: Digitize or acquire your text as a series of page images (TIFF, JPG, PNG). Interpret the text as an image on a screen. 
 
@@ -121,7 +121,7 @@ Notebook: Reverse the order of your text. Read it backward. Interpret the text a
 
 ## Week 11 | 14 March | Redact It. Glitch It. 
 
-How are texts what's missing? How might their materiality surprise us? 
+How are texts what's missing? How might their materiality surprise us? What happens if we accelerate their aging or compression? 
 
 Workshop: Ways to repair texts
 
@@ -156,3 +156,7 @@ Notebook: Cook up your own exercise. Run an experiment. Interpret the results. P
 ## Week 15 | Portfolio 
 
 Please compile all of your digital and tactile materials into a portfolio using an approach of your choice. With the portfolio, include a brief cover letter describing the effects of your various alterations. Please note: a cover letter is not a seminar paper or journal article. For the purposes of this seminar, it should describe, reflect, and project, not analyze, deconstruct, or interrogate.   
+
+## Acknowledgments 
+
+I would like to thank Kari Kraus and Bill Turkel, whose work deeply informs this course, which was also inspired by Herbert Blau's "Traditions of the Avant-Garde" seminar at the University of Washington. 
