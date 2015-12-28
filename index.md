@@ -85,7 +85,7 @@ Workshop: On ASCII and plain text; also, composing with HTML5
 
 Read: Schnapp, "Small Data: The Intimate Lives of Cultural Objects" (PDF) 
 
-Notebook: Articulate ten metadata fields for your text and provide data for each field. Interpet the text as metadata.  
+Notebook: Articulate ten metadata fields for your text and provide data for each field. Interpret the text as metadata.  
 
 ## Week 6 | 8 February | Holiday
 
