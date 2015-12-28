@@ -12,19 +12,28 @@ During our seminar meetings, we will counter these four assumptions by examining
 
 Doing so will involve something peculiar: *interpreting our primary sources by altering them*. We'll substitute words, change formats, rearrange poems, remediate fictions, juxtapose images, bend texts, and reconstitute book arts. To be sure, such approaches have vexed legacies in the arts and humanities. Consider [cut-ups](http://www.ubu.com/papers/burroughs_gysin.html), [constrained writing](http://oulipo.net/), [story-making machines](http://blogs.cornell.edu/exlibris/files/2014/05/Knights-Tour-x2-139oy33.jpg), [exquisite corpses](https://www.moma.org/learn/moma_learning/max-ernst-levade-the-fugitive), [remixes](http://remixtheory.net/), [tactical media](https://www.nyu.edu/fas/projects/vcb/definingTM_list.html), [Fluxkits](https://www.youtube.com/watch?v=cPi0UyHB95U), or [détournement](https://www.youtube.com/watch?v=mjUNY0433Do). Today, these avant-garde traditions are ubiquitous in a banal or depoliticized form, the default features of algorithmic culture and social networks. But we will refresh them, with a difference, by integrating our alterations into criticism and prompting questions about the composition of art and history today. 
 
-## -isms and Aims
+# -isms and Aims
 
 Our focus will be texts with charged design elements (experiments with fonts, typefaces, arrangement, simultaneity, synesthesia, space, time, and automation, to name a few) that were published between the 1870s and 1970s. These texts will correspond with various “-isms” from the period: Symbolism, Cubism, Nowism, Futurism, Dada, Minimalism, Expressionism, Imagism, Vorticism, Constructivism, Realism, Surrealism, Thingism, Concretism, Verticalism, Plasticism, and more. Early in the seminar, we will survey these -isms, and you will each be asked to research one in particular for a majority of the term. This research will involve bibliography and close reading together with the deliberate alteration of an –ism in order to foreground what made it compelling, or not so compelling, in the first place. 
 
 Our aim, then, will not be to "prove" anything about literature and culture. It will not be build tools, reveal networks, learn some code, or share whiz-bang visualizations, either. It will be to design and make texts differently, to better understand their significance by not only refusing to take them at face value (a hermeneutic impulse) but also prototyping what else they could be (a design impulse).  
-
 No experience with digital humanities is required for this seminar. Assumed technical competence: you know how to send an email. Please note, too, that this course involves a low-tech approach to digital humanities, with an emphasis on art, design, and aesthetics over computation, networks, distant reading, and big data. You will not be required to do any programming.
 
-## Required Materials 
+# Required Materials 
 
 For this seminar, please acquire a high-quality notebook for conducting seminar exercises. You will be asked to periodically circulate this notebook during seminar but also submit it for review and assessment. I also recommend access to a computer. You will probably need to circulate digital materials via a file sharing mechanism (FTP, Google Drive, GitHub, Tumblr) of your choice. (I'll provide options here, in case you're unfamiliar with any.) All readings are online or will be distributed via a course reader (in PDF). 
 
-## Assignments
+# Format 
+
+This seminar is project-based, meaning you will iteratively develop your own research in response to a series of prompts. You will periodically share this research with me and your peers, present it at the semester’s end, and integrate it into a scholarly portfolio of your work. 
+
+Each of our seminar meetings will usually involve the following:
+* Workshop: For up to two hours, we will collectively experiment with a particular technique for altering texts. Between meetings, you will be asked to apply what you learned during these workshops.
+* Seminar Discussion: For up to an hour, we will chat as a group about the workshop and/or readings. During these discussions, I may decide to listen, without much (if any) intervention in the conversation. I may also decide to briefly lecture about a given topic.
+
+You should arrive to each meeting having read the assigned texts and complete the assigned exercises, all which are listed in the course outline. 
+
+# Assignments
 
 A notebook (two marks, 25% each), presentation (10%), and final portfolio with cover letter (40%). With a focus on learning about materiality through material experimentation, this seminar will blend lecture and discussion with hands-on workshops across digital and tactile media. You will be required to keep logs in your notebook, create your own prototypes of a historical text, and compile a final portfolio, which will integrate your prototypes into a collection of observations about your selected -ism. These portfolios will treat prototypes as evocative objects for describing your text, reflecting on your work, and projecting toward next steps. They will not act as seminar papers or follow the conventions of academic journal articles.  
 
