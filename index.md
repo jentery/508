@@ -22,7 +22,7 @@ No experience with digital humanities is required for this seminar. Assumed tech
 
 # Required Materials 
 
-For this seminar, please acquire a high-quality notebook for conducting seminar exercises. You will be asked to periodically circulate this notebook during seminar but also submit it for review and assessment. I also recommend access to a computer. You will probably need to circulate digital materials via a file sharing mechanism (FTP, Google Drive, GitHub, Tumblr) of your choice. (I'll provide options here, in case you're unfamiliar with any.) All readings are online or will be distributed via a course reader (in PDF). 
+For this seminar, please acquire a high-quality notebook for conducting seminar exercises. You will be asked to periodically circulate this notebook during seminar but also submit it for review and assessment. I also recommend access to a computer. You will probably need to circulate digital materials via a file sharing mechanism (FTP, Google Drive, GitHub, Tumblr) of your choice. (I'll provide options here, in case you're unfamiliar with any.) All readings are online or will be distributed via a course reader (in PDF) available at http://jenteryteaches.com/noneshall/508/ (see me for ID and password).  
 
 # Format 
 
