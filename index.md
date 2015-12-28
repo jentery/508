@@ -225,7 +225,7 @@ How do we conduct reparative readings of texts? To what effect on legacies of su
 
 Workshop: Presenting your work 
 
-Read: Selections from Sedgwick, [*Touching Feeling*](https://www.dukeupress.edu/Touching-Feeling/index-viewby=subject&categoryid=44&sort=author.html) 
+Read: Sedgwick, ["Paranoid Reading and Reparative Reading"](http://jenteryteaches.com/noneshall/508/sedgwickReparative.pdf) 
 
 Notebook: Repair your redacted, glitched text. Interpret the text as a repaired object.    
 
@@ -237,7 +237,7 @@ No seminar. This is Easter Monday.
 
 It's your turn. Looking forward to hearing your ideas and seeing your prototypes! 
 
-Workshop: In-class presentations (8-10 minutes each) 
+Workshop: In-class presentations 
 
 Notebook: Cook up your own exercise. Run an experiment. Interpret the results. Present them during seminar.  
 
@@ -245,6 +245,6 @@ Notebook: Cook up your own exercise. Run an experiment. Interpret the results. P
 
 Please compile all of your digital and tactile materials into a portfolio using an approach of your choice. With the portfolio, include a brief cover letter describing the effects of your various alterations. Please note: a cover letter is not a seminar paper or journal article. For the purposes of this seminar, it should describe, reflect, and project, not analyze, deconstruct, or interrogate.   
 
-## Acknowledgments 
+# Thanks
 
 I would like to thank Kari Kraus and Bill Turkel, whose work deeply informs this course, which was also inspired by Herbert Blau's "Traditions of the Avant-Garde" seminar (2005) at the University of Washington. 
