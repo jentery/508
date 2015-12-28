@@ -115,6 +115,10 @@ With the exception of holidays and weekends, I respond to your emails within twe
 
 The Department of English respectfully acknowledges that the University of Victoria is situated on the territory of the Coast and Straits Salish peoples and sits on the site of a former Lkwungen village.
 
+# Thanks
+
+I would like to thank Kari Kraus and Bill Turkel, whose work deeply informs this course, which was also inspired by Herbert Blau's "Traditions of the Avant-Garde" seminar (2005) at the University of Washington. 
+
 # Schedule 
 
 Somewhere between design studies and literary studies, we will conduct a series of exercises where you will repeatedly alter a text across formats and media. Each exercise will be accompanied by a reading. 
@@ -244,7 +248,3 @@ Notebook: Cook up your own exercise. Run an experiment. Interpret the results. P
 ## Week 15 | Portfolio 
 
 Please compile all of your digital and tactile materials into a portfolio using an approach of your choice. With the portfolio, include a brief cover letter describing the effects of your various alterations. Please note: a cover letter is not a seminar paper or journal article. For the purposes of this seminar, it should describe, reflect, and project, not analyze, deconstruct, or interrogate.   
-
-# Thanks
-
-I would like to thank Kari Kraus and Bill Turkel, whose work deeply informs this course, which was also inspired by Herbert Blau's "Traditions of the Avant-Garde" seminar (2005) at the University of Washington. 
