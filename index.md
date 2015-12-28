@@ -193,7 +193,7 @@ Notebook: Change the typeface of your text, print it, and assemble it as a bookl
 
 When and why do texts become documents? How do they gather and store information? How do they exhibit traces of use? 
 
-Read: Selections from Gitelman, [*Paper Knowledge*](https://www.dukeupress.edu/Paper-Knowledge/) 
+Read: Selections from Gitelman, ["A Short History of _____"](http://jenteryteaches.com/noneshall/508/gitelmanShortHistory.pdf)
 
 Notebook: Convert your text into a fillable form. Have at least three other people complete it. Interpret the text as a document.   
 
