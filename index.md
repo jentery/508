@@ -65,6 +65,16 @@ For the portfolio, grades will be assigned based on the following scale:
 * 77-79 = B+: Portfolios in this range have significant flaws in some areas, but they still meet graduate standards.
 * 73-76 = B: Portfolios in this range are marginally acceptable at the graduate level.
 
+## Presentation (15%)
+Your final presentation will assume the form of an informal talk drawn from a particular aspect of your seminar research and notebook. You will be asked to speak for four to five minutes, using a combination of media, with a four- to five-minute question-and-answer period. People from outside the seminar will be invited to attend the talk. 
+
+For the final presentation, grades will be assigned based on the following scale:
+* 90-100 = A+: Presentations in this range are incredibly compelling and even memorable. They demonstrate what was learned during the semester and provide clear evidence of that learning. They prompt the audience to ask questions, and they spark conversation about a concrete topic emerging from the seminar. They do not visibly rely much (if at all) on reading a prepared text. Their structure is tangible and easy to follow.
+* 85-89 = A: Presentations in this range demonstrate what was learned during the semester and provide clear evidence of that learning. They prompt the audience to ask questions, and they spark conversation about a concrete topic emerging from the seminar. They do not visibly rely much (if at all) on reading a prepared text. Their structure is tangible and easy to follow.
+* 80-84 = A-: Presentations in this range demonstrate what was learned during the semester and provide recognizable evidence of that learning. They prompt the audience to ask questions. They do not visibly rely much (if at all) on reading a prepared text. Their structure is tangible and easy to follow.
+* 77-79 = B+: Presentations in this range demonstrate what was learned during the semester and provide recognizable evidence of that learning. They do not visibly rely much (if at all) on reading a prepared text. 
+* 73-76 = B: Presentations in this range demonstrate what was learned during the semester and provide recognizable evidence of that learning. 
+
 # Schedule 
 
 Somewhere between design studies and literary studies, we will conduct a series of exercises where you will repeatedly alter a text across formats and media. Each exercise will be accompanied by a reading. For more details, see the schedule below.  
