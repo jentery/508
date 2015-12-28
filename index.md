@@ -34,11 +34,14 @@ Each of our seminar meetings will usually involve the following:
 
 You should arrive to each meeting having read the assigned texts and completed the assigned exercises, all which are listed in the course outline. 
 
-# Assignments
+# Assignments and Assessment
 
-You will be required to keep logs in a notebook (assessed twice), create your own prototypes of a historical text (as part of the notebook), give a presentation, and compile a final portfolio, which will integrate your prototypes into a collection of observations about your selected -ism. These portfolios will treat prototypes as evocative objects for describing your text, reflecting on your work, and projecting toward next steps. They will not act as seminar papers or follow the conventions of academic journal articles. For our purposes during seminar, “prototype” will be synonymous with “alteration” or even “version.” 
+You will be required to keep entries in a notebook, create your own prototypes of a historical text (as part of the notebook), give a presentation, and compile a portfolio, which will integrate your prototypes into a collection of observations about your selected -ism. These portfolios will treat prototypes as evocative objects for describing your text, reflecting on your work, and projecting toward next steps. They will not act as seminar papers or follow the conventions of academic journal articles. For our purposes during seminar, “prototype” will be synonymous with “alteration” or even “version.” 
 
-## Schedule 
+Below is a list of the assignments, together with a description of what is expected for each and how they will be assessed. Please note that the requirements are subject to minor changes as the seminar progresses. If I do make a change to any of the assignments, then I will notify you in writing and well in advance.
+The portfolio and presentation are essential for passing the course. Failure to complete these two requirements will result in a failing N grade (calculated as a 0 for your GPA). Please also note: I do not post marks outside my office, and I do not use plagiarism detection software.
+
+# Schedule 
 
 Somewhere between design studies and literary studies, we will conduct a series of exercises where you will repeatedly alter a text across formats and media. Each exercise will be accompanied by a reading. For more details, see the schedule below.  
 
