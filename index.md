@@ -131,7 +131,7 @@ Between the 1870s and 1970s, what are some notable -isms operating across art, c
 
 Workshop: Sharing digital files for this seminar (FTP, GitHub, Drive, Tumblr) 
 
-Read: Selections from Caws, [*Manifesto*](http://uvic.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42JgAfZbU5khZ9tYGACbB8A-gxkng4xvImi1BrBJY6XgqOAMKVIV8tMUPItzi7kZwtxcQ5w9dKE3AOgmGoM2SumCzt9KTTRPTrVIMzZOAbZdkg1TjFNS05JMzYF1taWpqYVRikka0IaU1ERgxWOYaGGWZpliCZ6eAnbQQVfiqkIMRp1Ujk8EDevHBwGdZ24G7AIYAQA8DDHD) | Collection of -isms (PDF) | [Digital Manifesto Archive](http://www.digitalmanifesto.net/manifestos/) | [Modernist Journals Project](http://modjourn.org/) 
+Read: Caws, ["The Poetics of the Manifesto"](http://jenteryteaches.com/noneshall/508/cawsManifesto.pdf) | [Digital Manifesto Archive](http://www.digitalmanifesto.net/manifestos/) | [Modernist Journals Project](http://modjourn.org/) 
 
 Notebook: Take notes on your general impressions of at least five -isms. Please attend to the politics and aesthetics of each -ism, with notes on the historical particulars of when each occurred and why. 
 
