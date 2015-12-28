@@ -151,7 +151,7 @@ When is text also image? When do images resist translation into text? How are sc
 
 Workshop: Intro to metadata (including Dublin Core) 
 
-Read: Selections from Drucker, [*Figuring the Word*](http://jenteryteaches.com/noneshall/508/druckerFiguringTheWord.pdf) |  Mitchell, "What Do Pictures 'Really' Want?"](http://jenteryteaches.com/noneshall/508/mitchellWhatPictures.pdf) 
+Read: Selections from Drucker, [*Figuring the Word*](http://jenteryteaches.com/noneshall/508/druckerFiguringTheWord.pdf) |  Mitchell, ["What Do Pictures 'Really' Want?"](http://jenteryteaches.com/noneshall/508/mitchellWhatPictures.pdf) 
 
 Notebook: Digitize or acquire your text as a series of page images (TIFF, JPG, PNG). Interpret the text as an image on a screen. 
 
