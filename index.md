@@ -37,11 +37,9 @@ You should arrive to each meeting having read the assigned texts and complete th
 
 You will be required to keep logs in a notebook (assessed twice), create your own prototypes of a historical text (as part of the notebook), give a presentation, and compile a final portfolio, which will integrate your prototypes into a collection of observations about your selected -ism. These portfolios will treat prototypes as evocative objects for describing your text, reflecting on your work, and projecting toward next steps. They will not act as seminar papers or follow the conventions of academic journal articles. For our purposes during seminar, “prototype” will be synonymous with “alteration” or even “version.” 
 
-## Weekly Exercises 
+## Schedule 
 
 Somewhere between design studies and literary studies, we will conduct a series of exercises where you will repeatedly alter a text across formats and media. Each exercise will be accompanied by a reading. For more details, see the schedule below.  
-
-## Schedule 
 
 ## Week 1 | 4 January | Fine-Grained Interpretation through Low-Tech Alteration
 
