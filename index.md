@@ -203,7 +203,7 @@ How are texts also performances? How is text welded to reading?
 
 Workshop: On bots and databending 
 
-Read: Samuels and McGann, ["Deformance and Interpretation"](http://www.jstor.org.ezproxy.library.uvic.ca/stable/20057521?seq=1#page_scan_tab_contents)
+Read: Samuels and McGann, ["Deformance and Interpretation"](http://jenteryteaches.com/noneshall/508/samuelsMcGannDeformance.pdf)
 
 Notebook: Reverse the order of your text. Read it backward. Interpret the text as a performance.   
 
