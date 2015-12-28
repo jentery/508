@@ -161,7 +161,7 @@ When is text merely its description? What does metadata do beyond keeping texts 
 
 Workshop: On ASCII and plain text; also, composing with HTML5
 
-Read: Schnapp, "Small Data: The Intimate Lives of Cultural Objects" (PDF) 
+Read: Schnapp, ["Small Data: The Intimate Lives of Cultural Objects"](http://jenteryteaches.com/noneshall/508/schnappSmallData.pdf)
 
 Notebook: Articulate ten metadata fields for your text and provide data for each field. Interpret the text as metadata.  
 
@@ -175,7 +175,7 @@ What does plain text do? How is it processed?
 
 Workshop: On typefaces and fonts 
 
-Read: Selections from Tenen, *Plain Text* (PDF)
+Read: Selections from Tenen, *Plain Text*
 
 Notebook: Generate an ASCII, or plain text, version of your text, removing all formatting. Interpret the text as plain text. Then encode your text in HTML5. Interpret it as markup. 
 
