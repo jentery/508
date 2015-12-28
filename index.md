@@ -1,4 +1,4 @@
-# English 508 | Prototyping Texts: Interpretation through Alteration   
+# English 508 | Prototyping Texts<br>Interpretation through Alteration   
 
 Digital Studies | UVic | Spring 2016 | CRN: 21320 | M 2:30-5:20pm  
 Instructor: Jentery Sayers | Assistant Professor | Department of English   
