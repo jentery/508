@@ -213,7 +213,7 @@ How are texts what's missing? How might their materiality surprise us? What happ
 
 Workshop: Ways to repair texts
 
-Read: Craze, ["In the Dead Letter Office"](http://static1.squarespace.com/static/535dcd87e4b08cab3cb3e421/t/560afc96e4b0bd9a7a2d6894/1443560598997/In+the+Dead+Letter+Office.pdf); Menkman, ["Vernacular of File Formats"](http://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf)
+Read: Craze, ["In the Dead Letter Office"](http://jenteryteaches.com/noneshall/508/crazeDeadLetter.pdf) | Menkman, ["Vernacular of File Formats"](http://jenteryteaches.com/noneshall/508/menkmanVernacular.pdf)
 
 Notebook: Hide, mask, or erase aspects of your text. Interpret the text as a redacted text. Now repeatedly compress and bend your text. Interpret the text as a glitch. If you wish, then feel free to turn your text into a bot, too. 
 
