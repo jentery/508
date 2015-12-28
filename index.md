@@ -1,7 +1,10 @@
 # English 508 | Prototyping Texts: Interpretation through Alteration   
-Jentery Sayers | University of Victoria | Spring 2016
 
-## Course Description
+Digital Studies | UVic | Spring 2016 | CRN: 21320 | M 2:30-5:20pm  
+Instructor: Jentery Sayers | Assistant Professor | Department of English   
+jentery@uvic.ca | CLE D334 | M 12-2pm (office hours)  
+
+# Course Description
 
 In both theory and practice, this seminar brushes against four popular assumptions about digital humanities: 1) as a service to researchers, the field merely develops digital resources for online discovery and builds computational tools for end-users; it does not interpret texts or meaningfully engage with "pre-digital" traditions in literary and cultural criticism; 2) digital humanities is not concerned with the literary or aesthetic character of texts; it is a techno-solutionist byproduct of instrumentalism and big data; 3) digital humanities practitioners replace cultural perspectives with uncritical computer vision; instead of privileging irony or ambivalence, they use computers to "prove" reductive claims about literature and culture, usually through graphs and totalizing visualizations; and 4) to participate in the field, you must be fluent in computer programming, or at least be willing to treat literature and culture quantitatively; if you are not a programmer, then you are not doing digital humanities.
 
