@@ -177,7 +177,7 @@ Workshop: On typefaces and fonts
 
 Read: Selections from Tenen, *Plain Text*
 
-Notebook: Generate an ASCII, or plain text, version of your text, removing all formatting. Interpret the text as plain text. Then encode your text in HTML5. Interpret it as markup. 
+Notebook: Generate an ASCII (or plain text) version of your text, removing all formatting. Interpret the text as plain text. Then encode your text in HTML5. Interpret it as markup. 
 
 ## Week 8 | 22 February | Change the Typeface. Print + Assemble It.
 
