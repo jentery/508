@@ -53,6 +53,18 @@ For the notebook, grades will be assigned based on the following scale:
 * 77-79 = B+: Notebooks in this range are rife with documentation. They respond to seminar discussions and are reflexive.
 * 73-76 = B: Research logs in this range are rife with documentation and respond to seminar discussions.
 
+## Portfolio (40%)
+Your portfolio should collect all the work you’ve done during seminar, curate it, and contextualize it with a cover letter (750-1000 words). The portfolio can be digital, tactile, or both, and it can be submitted online, by hand, or both. 
+
+During the second half of the semester, I will circulate a prompt for the portfolio, detailing the requirements and expectations in consultation with you. For now, you should know that the portfolio should not be a seminar paper, and its primary function is to share or exhibit your work, not make an argument about it.  
+
+For the portfolio, grades will be assigned based on the following scale:
+* 90-100 = A+: Portfolios in this range are especially sophisticated and perceptive pieces of work that make an original contribution to scholarly thinking about a particular -ism. They could be published in a multimodal journal or exhibited in an academic venue.  
+* 85-89 = A: Portfolios in this range are perceptive and original, but may require substantial revision for public circulation. They could act as core material for a conference presentation.  
+* 80-84 = A-: Portfolios in this range are adequate at the graduate level with regard to the research, presentation, and quality of content.   
+* 77-79 = B+: Portfolios in this range have significant flaws in some areas, but they still meet graduate standards.
+* 73-76 = B: Portfolios in this range are marginally acceptable at the graduate level.
+
 # Schedule 
 
 Somewhere between design studies and literary studies, we will conduct a series of exercises where you will repeatedly alter a text across formats and media. Each exercise will be accompanied by a reading. For more details, see the schedule below.  
