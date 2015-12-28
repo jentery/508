@@ -119,11 +119,11 @@ The Department of English respectfully acknowledges that the University of Victo
 
 Somewhere between design studies and literary studies, we will conduct a series of exercises where you will repeatedly alter a text across formats and media. Each exercise will be accompanied by a reading. 
 
-## Week 1 | 4 January | Fine-Grained Interpretation through Low-Tech Alteration
+## Week 1 | 4 January | Interpretation through Alteration
 
 Why interpret texts by altering them? What are some low-tech approaches to prototyping and interpreting texts in a whiz-bang world? How do we think about design and fiction together? 
 
-Background: Balsamo, ["Design"](http://www.mitpressjournals.org/doi/abs/10.1162/ijlm_a_00036#.Vmd_vOMrIzK) | Barad, [*Meeting the Universe Halfway*](https://www.dukeupress.edu/meeting-the-universe-halfway) | Drucker and Nowviskie, ["Speculative Computing"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-10) |  Guilford’s Alternative Uses Task (1967) | Jackson, ["Rethinking Repair"](http://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf) | Kraus, ["Conjectural Criticism"](http://digitalhumanities.org/dhq/vol/3/4/000069/000069.html) | Rosner and Ames, ["Designing for Repair"](http://people.ischool.berkeley.edu/~daniela/files/cscw14-rosner-repair.pdf) | Sample, ["Closed Bots and Green Bots"](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) | Sterling, ["Design Fiction"](http://dl.acm.org/citation.cfm?id=1516021) (no need to read any of these in advance)
+Background: Balsamo, ["Design"](http://jenteryteaches.com/noneshall/508/balsamoDesign.pdf) | Barad, [*Meeting the Universe Halfway*](http://jenteryteaches.com/noneshall/508/baradMeetingTheUniverseHalfway.pdf) | Drucker and Nowviskie, ["Speculative Computing"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-4-10) |  Guilford’s [Alternative Uses Task (1967)](http://www.indiana.edu/~bobweb/Handout/d1.uses.htm) | Jackson, ["Rethinking Repair"](http://jenteryteaches.com/noneshall/508/jacksonRethinkingRepair.pdf) | Kraus, ["Conjectural Criticism"](http://digitalhumanities.org/dhq/vol/3/4/000069/000069.html) | Moten, [*In The Break*](http://jenteryteaches.com/noneshall/508/motenInTheBreak.pdf) | Rosner and Ames, ["Designing for Repair"](http://jenteryteaches.com/noneshall/508/rosnerAmesDesigningForRepair.pdf) | Sample, ["Closed Bots and Green Bots"](http://www.samplereality.com/2014/06/23/closed-bots-and-green-bots/) | Sterling, ["Design Fiction"](http://jenteryteaches.com/noneshall/508/sterlingDesignFiction.pdf) (no need to read any of these in advance)
 
 ## Week 2 | 11 January | Survey Some -Isms.
 
