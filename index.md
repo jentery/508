@@ -109,7 +109,7 @@ Workshop: Making forms
 
 Read: Selections from Bringhurst, [*The Elements of Typographic Style*](http://uvic.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42JgAfZbU5khZ9tYWAAj3Ag888YFig9glFuCrizmAJ1LZQxMLBzQuDcEFZJGphacDIrA8FFIhaydLlbIT1MoqSyAnN6cmaxQXFIJKjal3VxDnD10QftQ4qHDHPGGxqYGRpagmyVVIbKo08jxiaCB_PggA2CDwMzSFLTRCJ8pAHNINns) (PDF) | See also, Lupton, [*Thinking with Type*](http://thinkingwithtype.com/)
 
-Notebook: Change the typeface of your text, print it, and assemble it as a booklet. Intepret the text as type.  
+Notebook: Change the typeface of your text, print it, and assemble it as a booklet. Interpret the text as type.  
 
 ## Week 9 | 29 February | Make It a Form. 
 
