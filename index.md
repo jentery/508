@@ -32,7 +32,7 @@ Each of our seminar meetings will usually involve the following:
 * Workshop: For up to two hours, we will collectively experiment with a particular technique for altering texts. Between meetings, you will be asked to apply what you learned during these workshops.
 * Seminar Discussion: For up to an hour, we will chat as a group about the workshop and/or readings. During these discussions, I may decide to listen, without much (if any) intervention in the conversation. I may also decide to briefly lecture about a given topic.
 
-You should arrive to each meeting having read the assigned texts and complete the assigned exercises, all which are listed in the course outline. 
+You should arrive to each meeting having read the assigned texts and completed the assigned exercises, all which are listed in the course outline. 
 
 # Assignments
 
