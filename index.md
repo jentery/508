@@ -181,7 +181,7 @@ Notebook: Generate an ASCII (or plain text) version of your text, removing all f
 
 ## Week 8 | 22 February | Change the Typeface. Print + Assemble It.
 
-What is the relation between print and digital typography? How do we think about them together? 
+What is the relation between print and digital typography? How do we think about them together? How does typography invite readers? 
 
 Workshop: Making forms 
 
