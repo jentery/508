@@ -157,7 +157,7 @@ Notebook: Digitize or acquire your text as a series of page images (TIFF, JPG, P
 
 ## Week 5 | 1 February | Make It Metadata. 
 
-When is text merely its description? What does metadata do beyond keeping texts found?  
+When is text merely description? What does text about text do? What does metadata do beyond keeping things found?
 
 Workshop: On ASCII and plain text; also, composing with HTML5
 
