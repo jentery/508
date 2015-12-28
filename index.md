@@ -75,6 +75,16 @@ For the final presentation, grades will be assigned based on the following scale
 * 77-79 = B+: Presentations in this range demonstrate what was learned during the semester and provide recognizable evidence of that learning. They do not visibly rely much (if at all) on reading a prepared text. 
 * 73-76 = B: Presentations in this range demonstrate what was learned during the semester and provide recognizable evidence of that learning. 
 
+## Participation (15%) 
+Discussion and invested participation are central to the graduate seminar format. That said, I will assess your contributions to the seminar this semester, including questions you ask, your involvement in workshops, your investment and role in dialogue, and your familiarity with the readings at hand. Near our sixth meeting, I will circulate interim participation grades.
+
+For your participation mark, grades will be assigned based on the following scale:
+* 90-100 = A+: Participation in this range demonstrates an incredibly high level of engagement with the course material. You are clearly familiar with the reading(s) at hand, actively engaged in workshops, sparking dialogue with your peers and me, listening attentively to others, and asking compelling questions, which have not occurred to me or your peers. 
+* 85-89 = A: Participation in this range demonstrates a high level of engagement with the course material. You are clearly familiar with the reading(s) at hand, actively engaged in workshops, sparking dialogue with your peers and me, listening attentively to others, and asking important questions. 
+* 80-84 = A-: Participation in this range demonstrates a high level of engagement with the course material. You are clearly familiar with the reading(s) at hand, actively engaged in workshops, sparking dialogue with your peers and me, and listening attentively to others. 
+* 77-79 = B+: Participation in this range demonstrates an acceptable level of engagement with the course material. You are clearly familiar with the reading(s) at hand and actively engaged in workshops.
+* 73-76 = B: Participation in this range suggests you are likely familiar with the reading(s) at hand and engaged in workshops.
+
 # Schedule 
 
 Somewhere between design studies and literary studies, we will conduct a series of exercises where you will repeatedly alter a text across formats and media. Each exercise will be accompanied by a reading. For more details, see the schedule below.  
