@@ -185,7 +185,7 @@ What is the relation between print and digital typography? How do we think about
 
 Workshop: Making forms 
 
-Read: Selections from Bringhurst, [*The Elements of Typographic Style*](http://uvic.summon.serialssolutions.com/#!/search?bookMark=ePnHCXMw42JgAfZbU5khZ9tYWAAj3Ag888YFig9glFuCrizmAJ1LZQxMLBzQuDcEFZJGphacDIrA8FFIhaydLlbIT1MoqSyAnN6cmaxQXFIJKjal3VxDnD10QftQ4qHDHPGGxqYGRpagmyVVIbKo08jxiaCB_PggA2CDwMzSFLTRCJ8pAHNINns) (PDF) | See also, Lupton, [*Thinking with Type*](http://thinkingwithtype.com/)
+Read: Selections from Bringhurst, [*The Elements of Typographic Style*](http://jenteryteaches.com/noneshall/508/bringhurstElements.pdf) | See also, Lupton, [*Thinking with Type*](http://thinkingwithtype.com/)
 
 Notebook: Change the typeface of your text, print it, and assemble it as a booklet. Interpret the text as type.  
 
@@ -193,7 +193,7 @@ Notebook: Change the typeface of your text, print it, and assemble it as a bookl
 
 When and why do texts become documents? How do they gather and store information? How do they exhibit traces of use? 
 
-Read: Selections from Gitelman, [*Paper Knowledge*](https://www.dukeupress.edu/Paper-Knowledge/) (PDF) 
+Read: Selections from Gitelman, [*Paper Knowledge*](https://www.dukeupress.edu/Paper-Knowledge/) 
 
 Notebook: Convert your text into a fillable form. Have at least three other people complete it. Interpret the text as a document.   
 
