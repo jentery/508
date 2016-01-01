@@ -64,15 +64,15 @@ h2, h3 {
 }
 
 h1 {
-	font-size: 28px;
+	font-size: 32px;
 }
 
 h2 {
-	font-size: 26px;
+	font-size: 28px;
 }
 
 h3 {
-	font-size: 18px;
+	font-size: 20px;
 }
 
 h4, h5, h6 {
@@ -220,7 +220,7 @@ td {
 header {
 	background-color: #171717;
 	color: #FDFDFB;
-  width:170px;
+  width:200px;
   float:left;
   position:fixed;
 	border: 1px solid #000;
@@ -322,7 +322,7 @@ a.buttons:hover {
 /* Section - for main page content */
 
 section {
-  width:650px;
+  width:800px;
   float:right;
   padding-bottom:50px;
 }
