@@ -306,7 +306,7 @@ a.buttons {
 	font-weight: normal;
 	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
 	padding: 2px 2px 2px 22px;
-	height: 30px;
+	height: 35px;
 }
 
 a.github {
@@ -322,10 +322,9 @@ a.buttons:hover {
 /* Section - for main page content */
 
 section {
-  width:800px;
+  width:650px;
   float:right;
   padding-bottom:50px;
-  padding-left: 250px;
 }
 
 
