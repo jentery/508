@@ -79,11 +79,7 @@ In digital humanities, there's [Kari Kraus's "Conjectural Criticism,"](http://di
 We could spend an entire term unpacking this list, or reading and discussing Barad's compelling book. At this point, though, I want to underscore ways we might refrain from assuming neat, material distinctions between authors, audiences, interpretation, and texts, or between design, matter, making, and form, or between inscription, transmission, circulation, and media. Barad: "We do not uncover preexisting facts about independently existing things as they exist frozen in time like little statues positioned in the world. Rather, we learn about phenomena&mdash;about specific material configurations of the world's becoming. . . . *[P]ractices of knowing are specific material engagements that participate in (re)configuring the world*" (2007: 90-91). In my experience, prototyping highlights how we change texts as we interpret them. It also stresses how texts do not determine their interpretations and are not neutral, inert, or transparent objects (e.g., that instrumentally translate input into output). From my perspective, they shape how we know and perceive the world, and this influence is contingent upon when, where, and how they are read as text, discourse, and matter.  
 
 To conclude our postulations, we might ask how, in many ways, prototyping texts ultimately concerns what we mean by "description" in literary and cultural studies. Building on the work of Charles Sanders Peirce, Fred Moten uses the term, "second iconicity" (2003: 92), in his book, *In the Break*, to demonstrate how writing not only refers to and represents experiences but also performs them through description (as opposed to explanation). Moten: "we must attempt a description of an experience whose provenance or emergence is not
-reducible to logical structure, pictorial internal relation or internal
-similarity; it is an experience of the passage or cut that cannot be
-explained because those formulations upon which our explanations must
-be grounded . . . are themselves so profoundly without ground" (2003: 92). For Moten, description allows us to notice aspects of experience and improvise with the materiality of language, the ontology of which is never stable or frozen. For us, perhaps prototypes may operate as suggestive or evocative descriptions, pointing to a gap between history (or attested states of texts) and possibilities (or conjectured states of texts). As such, prototyping is not really meant to uncover hidden dimensions of literature and culture or to explain them away. It is intended to perform and experiment with the contingencies of difference, and to identify which differences matter, when, and why. We'll discuss this later in the term, but I like to think that such an approach involves questioning the surface or face value of texts without relying too heavily (if at all) on suspicion.  
-
+reducible to logical structure, pictorial internal relation or internal similarity; it is an experience of the passage or cut that cannot be explained because those formulations upon which our explanations must be grounded . . . are themselves so profoundly without ground" (2003: 92). For Moten, description allows us to notice aspects of experience and improvise with the materiality of language, the ontology of which is never stable or frozen. For us, perhaps prototypes may operate as suggestive or evocative descriptions, pointing to a gap between history (or attested states of texts) and possibilities (or conjectured states of texts). As such, prototyping is not really meant to uncover hidden dimensions of literature and culture or to explain them away. It is intended to perform and experiment with the contingencies of difference, and to identify which differences matter, when, and why. We'll discuss this later in the term, but I like to think that such an approach involves questioning the surface or face value of texts without relying too heavily (if at all) on suspicion.  
 ### Wait . . . What's a Prototype? 
 
 Let's start with the OED: 
@@ -94,16 +90,38 @@ Let's start with the OED:
 
 And then we have prototype operating primarily as a noun (since the 1500s) or a verb (since the 1800s): 
 
-*prototype (1500s)*: "[t]he first or primary type of a person or thing; an original on which something is modelled or from which it is derived; an exemplar, an archetype" 
+* *prototype (1500s)*: "[t]he first or primary type of a person or thing; an original on which something is modelled or from which it is derived; an exemplar, an archetype" 
+* *prototype (1800s)*: "[t]o take as a prototype or model; to imitate"
+* *prototype (1800s)*: "[i]n early use: to originate, provide with a prototype. Now usually: to create a prototype of. Also intr.: to act as or create a prototype"
+* *prototype (1900s)*: "[i]n model-making: a full-size original of which a model is a representation on a reduced scale"
+* *prototype (1900s)*: in electronics, "[a] basic filter network (usually having series and shunt reactances in inverse proportion) with specified cut-off frequencies, from which other networks may be derived to obtain sharper cut-offs, constancy of characteristic impedance with frequency, etc."
+* *prototype (1900s)*: "[a] first full-size working version of a new vehicle, machine, etc., of which further improvements may be made; a preliminary version made in small numbers for evaluation, or from which improved or modified versions may be developed" 
 
-*prototype (1800s)*: "[t]o take as a prototype or model; to imitate"
+How do we interpret this history? How might these various definitions inform the work we're doing this term? What tensions do we notice between, e.g., between imitation and originating, or a symbol and a working version? What definitions or accounts are missing from the OED? 
 
-*prototype (1800s)*: "[i]n early use: to originate, provide with a prototype. Now usually: to create a prototype of. Also intr.: to act as or create a prototype"
+### -isms
 
-*prototype (1900s)*: "[i]n model-making: a full-size original of which a model is a representation on a reduced scale"
+Here's where -isms enter the picture. For this seminar, I'm hoping we can test the above postulations and assumptions by selecting texts that meld aesthetics with politics and prototyping alternative verisons of them. For this sort of project, manifestos (specifically manifestos associated with artistic/literary movements) immediately came to mind. If we consider [Mary Ann Caws's work on manfiestos](http://jenteryteaches.com/noneshall/508/cawsManifesto.pdf) (published in 2001), then we might describe manifestos as: 
 
-*prototype (1900s)*: in electronics, "[a] basic filter network (usually having series and shunt reactances in inverse proportion) with specified cut-off frequencies, from which other networks may be derived to obtain sharper cut-offs, constancy of characteristic impedance with frequency, etc."
+* public declarations (and often loud ones at that) (Caws 2001: xix), 
+* announcements of motives for forthcoming action (xix),  
+* acts of deliberate manipulation (both aesthetic and political) (xix), 
+* rooted in the hand (manus) or handmade (xix), 
+* directives (usually against something) articulated by a specific "we" (xxi), 
+* serious and frequently without irony (xxi),  
+* situated in time, typically with an investment in being the first to do something (xxiii), 
+* instructive or pedagogical (xxiii), 
+* arranged or, indeed, designed (xxiii), 
+* efforts to label or categorize (even if loosely) (xxiv), 
+* duck, not decoration (xxv), 
+* written in the present tense (now!) (xxvi), 
+* advertisements (they sell themselves) (xxv), and 
+* subject to redefintion and recontextualization over time (xxviii-xxix).  
 
-*prototype (1900s)*: "[a] first full-size working version of a new vehicle, machine, etc., of which further improvements may be made; a preliminary version made in small numbers for evaluation, or from which improved or modified versions may be developed" 
+More on that last point: manifestos and movements are frequently adopted and adapted by other people down the line (consider the various manifestations of Futurism, e.g.). They endure shifts in media, formats, context, and even politics. In this sense, they undergo interpretation through alteration or perpetual redescription. They not static texts, and what they represent is not static, either.  
 
-How do we interpret this history? How might they inform the work we're doing this term? What tensions do we notice between, e.g., imitation and originating, or between a symbol and a working version?  
+Here's the final set of questions for the day, then: what if we consider manifestos (or -isms) to be prototypes? How do they (if at all) pronounce a working version of a movement, asthetic, or idea? How are they (if at all) symbolic, and of what? What do they originate? How are they evaluated or tested? Why are the shortcomings or fallacies of this treatment (of manifesto as prototype)? 
+
+For our next meeting, I'm asking you to read [Caws](http://jenteryteaches.com/noneshall/508/cawsManifesto.pdf) and, in your notebooks, draft your general impressions of at least five -isms active between 1870 and 1970. Please attend to the politics and aesthetics of each -ism, with notes on the historical particulars of when each occurred and why. Here's a list of -isms, but please free to cook up your own: Symbolism, Cubism, Nowism, Futurism, Dada, Minimalism, Expressionism, Imagism, Vorticism, Constructivism, Realism, Surrealism, Thingism, Concretism, Verticalism, and Plasticism.
+
+In two weeks, you'll select an -ism for the term, together with a document (e.g., a manifesto) representative of that -ism, both of which you'll briefly present during seminar. Let me know if you have any questions! 
