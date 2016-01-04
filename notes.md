@@ -97,7 +97,7 @@ And then we have prototype operating primarily as a noun (since the 1500s) or a 
 * *prototype (1900s)*: in electronics, "[a] basic filter network (usually having series and shunt reactances in inverse proportion) with specified cut-off frequencies, from which other networks may be derived to obtain sharper cut-offs, constancy of characteristic impedance with frequency, etc."
 * *prototype (1900s)*: "[a] first full-size working version of a new vehicle, machine, etc., of which further improvements may be made; a preliminary version made in small numbers for evaluation, or from which improved or modified versions may be developed" 
 
-How do we interpret this history? How might these various definitions inform the work we're doing this term? What tensions do we notice between, e.g., between imitation and originating, or a symbol and a working version? What definitions or accounts are missing from the OED? 
+How do we interpret this history? How might these various definitions inform the work we're doing this term? What tensions do we notice between, e.g., imitation and originating, or a symbol and a working version? What definitions or accounts are missing from the OED? 
 
 ### -isms
 
@@ -108,8 +108,8 @@ Here's where -isms enter the picture. For this seminar, I'm hoping we can test t
 * acts of deliberate manipulation (both aesthetic and political) (xix), 
 * rooted in the hand (manus) or handmade (xix), 
 * directives (usually against something) articulated by a specific "we" (xxi), 
-* serious and frequently without irony (xxi),  
-* situated in time, typically with an investment in being the first to do something (xxiii), 
+* serious, and frequently without irony (xxi),  
+* situated in time, typically with an investment in being first (xxiii), 
 * instructive or pedagogical (xxiii), 
 * arranged or, indeed, designed (xxiii), 
 * efforts to label or categorize (even if loosely) (xxiv), 
@@ -118,10 +118,10 @@ Here's where -isms enter the picture. For this seminar, I'm hoping we can test t
 * advertisements (they sell themselves) (xxv), and 
 * subject to redefintion and recontextualization over time (xxviii-xxix).  
 
-More on that last point: manifestos and movements are frequently adopted and adapted by other people down the line (consider the various manifestations of Futurism, e.g.). They endure shifts in media, formats, context, and even politics. In this sense, they undergo interpretation through alteration or perpetual redescription. They not static texts, and what they represent is not static, either.  
+More on that last point: manifestos and movements are frequently adopted and adapted by other people down the line (consider the various manifestations of Futurism, e.g.). They endure shifts in media, formats, context, and even politics. In this sense, they undergo interpretation through alteration or perpetual redescription. They are not static texts, and what they represent (or how they represent) is not static, either.  
 
 Here's the final set of questions for the day, then: what if we consider manifestos (or -isms) to be prototypes? How do they (if at all) pronounce a working version of a movement, asthetic, or idea? How are they (if at all) symbolic, and of what? What do they originate? How are they evaluated or tested? Why are the shortcomings or fallacies of this treatment (of manifesto as prototype)? 
 
-For our next meeting, I'm asking you to read [Caws](http://jenteryteaches.com/noneshall/508/cawsManifesto.pdf) and, in your notebooks, draft your general impressions of at least five -isms active between 1870 and 1970. Please attend to the politics and aesthetics of each -ism, with notes on the historical particulars of when each occurred and why. Here's a list of -isms, but please free to cook up your own: Symbolism, Cubism, Nowism, Futurism, Dada, Minimalism, Expressionism, Imagism, Vorticism, Constructivism, Realism, Surrealism, Thingism, Concretism, Verticalism, and Plasticism.
+For our next meeting, I'm asking you to read [Caws](http://jenteryteaches.com/noneshall/508/cawsManifesto.pdf) and, in your notebooks, draft your general impressions of at least five -isms active between 1870 and 1970. Please attend to the politics and aesthetics of each -ism, with notes on the historical particulars of when each occurred and why. Here's a list of -isms, but please free to cook up your own list: Symbolism, Cubism, Nowism, Futurism, Dada, Minimalism, Expressionism, Imagism, Vorticism, Constructivism, Realism, Surrealism, Thingism, Concretism, Verticalism, and Plasticism.
 
 In two weeks, you'll select an -ism for the term, together with a document (e.g., a manifesto) representative of that -ism, both of which you'll briefly present during seminar. Let me know if you have any questions! 
