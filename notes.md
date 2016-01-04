@@ -90,18 +90,20 @@ Let's start with the OED:
 
 *proto-*: Prefixed to nouns and adjectives with the sense "earliest, original; at an early stage of development, primitive; incipient, potential"
 
-*type*: etymology is French and Lation, but also Greek (τύπος impression, figure, type, < the root of τύπτειν to beat, strike); early (1500s), it is "[t]hat by which something is symbolized or figured; anything having a symbolical signification; a symbol, emblem"; later (1700s), it is "[a] small rectangular block, usually of metal or wood, having on its upper end a raised letter, figure, or other character, for use in printing"; shortly thereafter (late 1700s/early 1800s), "[a] printed character or characters, or an imitation of these"; and then later (1800s), it becomes "[t]he general form, structure, or character distinguishing a particular kind, group, or class of beings or objects"; importantly, the history of the word suggests an entanglment of technical and conceptual treatments 
+*type*: etymology is French and Latin, but also Greek (τύπος impression, figure, type, < the root of τύπτειν to beat, strike); early (1500s), it is "[t]hat by which something is symbolized or figured; anything having a symbolical signification; a symbol, emblem"; later (1700s), it is "[a] small rectangular block, usually of metal or wood, having on its upper end a raised letter, figure, or other character, for use in printing"; shortly thereafter (late 1700s/early 1800s), "[a] printed character or characters, or an imitation of these"; and then later (1800s), it becomes "[t]he general form, structure, or character distinguishing a particular kind, group, or class of beings or objects"; importantly, the history of the word suggests an entanglement of technical and conceptual treatments 
 
 And then we have prototype operating primarily as a noun (since the 1500s) or a verb (since the 1800s): 
 
-prototype (1500s): "[t]he first or primary type of a person or thing; an original on which something is modelled or from which it is derived; an exemplar, an archetype" 
+*prototype (1500s)*: "[t]he first or primary type of a person or thing; an original on which something is modelled or from which it is derived; an exemplar, an archetype" 
 
-prototype (1800s): "[t]o take as a prototype or model; to imitate"
+*prototype (1800s)*: "[t]o take as a prototype or model; to imitate"
 
-prototype (1800s): "[i]n early use: to originate, provide with a prototype. Now usually: to create a prototype of. Also intr.: to act as or create a prototype"
+*prototype (1800s)*: "[i]n early use: to originate, provide with a prototype. Now usually: to create a prototype of. Also intr.: to act as or create a prototype"
 
-prototype (1900s): "[i]n model-making: a full-size original of which a model is a representation on a reduced scale"
+*prototype (1900s)*: "[i]n model-making: a full-size original of which a model is a representation on a reduced scale"
 
-prototype (1900s): in electronics, "[a] basic filter network (usually having series and shunt reactances in inverse proportion) with specified cut-off frequencies, from which other networks may be derived to obtain sharper cut-offs, constancy of characteristic impedance with frequency, etc."
+*prototype (1900s)*: in electronics, "[a] basic filter network (usually having series and shunt reactances in inverse proportion) with specified cut-off frequencies, from which other networks may be derived to obtain sharper cut-offs, constancy of characteristic impedance with frequency, etc."
 
-prototype (1900s): "[a] first full-size working version of a new vehicle, machine, etc., of which further improvements may be made; a preliminary version made in small numbers for evaluation, or from which improved or modified versions may be developed" 
+*prototype (1900s)*: "[a] first full-size working version of a new vehicle, machine, etc., of which further improvements may be made; a preliminary version made in small numbers for evaluation, or from which improved or modified versions may be developed" 
+
+How do we interpret this history? How might they inform the work we're doing this term? What tensions do we notice between, e.g., imitation and originating, or between a symbol and a working version?  
