@@ -1,5 +1,32 @@
 # Notes 
 
+<h2><a id="week2"></a>Week 2 | 11 January | Survey Some -Isms</h2>
+<p>Picking up on our conversation last week, especially questions about &quot;what if&quot; analysis, below are a few ways we might approach speculation as inquiry.</p>
+<h3 id="speculating-about">Speculating About</h3>
+<p>In this paradigm, speculation might be historically oriented, anchored in what could or might have happened but nevertheless cannot be proved. In this sense, it may be about absences in the historical record or versions of historical materials (e.g., drafts, witnesses, editions, omissions, redactions, and remediations).</p>
+<p>Building on the work of <a href="https://books.google.com/books?id=9gQyAgAAQBAJ&amp;dq=speculative+everything+dunne&amp;source=gbs_navlinks_s">Dunne and Raby (2013: 3-6)</a> as well as Candy (2009), perhaps we could outline &quot;speculating about&quot; like so:</p>
+<ul>
+<li><em>Probable</em>: history that likely happened (something like the &quot;attested state&quot; of literary or cultural history upon which most scholarship is built),</li>
+<li><em>Plausible</em>: history that could have happened (something like an &quot;alternative state&quot; of literary or cultural history that most scholars would entertain as likely or persuasive),</li>
+<li><em>Possible</em>: history that potentially happened, or for which there is potential (something like a &quot;relatable&quot; or &quot;suggested state&quot; of literary or cultural history that most scholars could imagine), and</li>
+<li><em>Preferable</em>: history we (whoever &quot;we&quot; are) want to see in the world (something like a &quot;projected&quot; or &quot;necessary state&quot; of literary or cultural history that may be ignored, discounted, counterfactual, or fictional).</li>
+</ul>
+<h3 id="speculating-for-or-to">Speculating For or To</h3>
+<p>In this paradigm, speculation might be more goal-oriented, intertwined with critical or interpretive aims. For instance, we might prototype or alter texts to:</p>
+<ul>
+<li>Highlight biases about them and change them accordingly (e.g., what if this text literally says what we think it implies?),</li>
+<li>Make an argument about the relevance of their design (e.g., what if this text is an image, or what if it is &quot;plain&quot;?),</li>
+<li>Physically manifest ways of reading them (e.g., what if this text is its deconstruction?),</li>
+<li>Demonstrate how describing them is also interpreting them (e.g., what if this text includes its annotations or metadata?),</li>
+<li>Stress how remediating or reformatting them shapes access and interpretation (e.g., what if this text is only a PDF or TXT?),</li>
+<li>Thaw them, untether them from origin stories, or refuse claims that they are frozen in time (e.g., what if this text is a contemporary fiction?), or</li>
+<li>Repair them (e.g., what if what's missing from this text is returned to it?).</li>
+</ul>
+<p>With these cases in mind, we can explore how meaning is entangled with matter, or how we are not somehow separate from our objects of inquiry.</p>
+<h3 id="on-care-repair-and-stewardship">On Care, Repair, and Stewardship</h3>
+<p>This week I've been thinking through the rhetoric of care and repair, and I wonder if it entails the assumption that something or someone needs to be fixed. Put differently, does it pathologize texts or history (to &quot;restore&quot; them)? Does it depend on a sort of critical hubris? While prototyping texts, can we have a care and repair paradigm without an investment in &quot;whole texts&quot; or &quot;complete history&quot;? For me, it seems like stewardship (as a critical or creative practice) is crucial here. So, too, are questions of agency: where do we locate it in acts of care, repair, interpretation, alteration, or prototyping? How is about what texts, contexts, and critics do together?</p>
+
+
 ## Week 1 | 4 January | Interpretation through Alteration
 
 Hello! Welcome to 508. I'm looking forward to it. At some point during our first meeting, we should introduce ourselves and briefly review the [syllabus](index.html), which is also available in [PDF](syllabus.pdf). After you read the syllabus, please let me know of any concerns.   
