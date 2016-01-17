@@ -1,78 +1,69 @@
 # Notes 
 
-## Week 3 | 18 January | Approaching Texts as Images 
-
-Next week, we'll approach your selected texts and -isms as images. Initially, can you be quite literal about this? Please photograph at least one page of text, or scan it, or find it online, as a TIFF, JPG, or PNG. Then push the file(s) to your webspace.  
-
-Once you have a version of it as an image file, consider printing it out and hanging it somewhere. Look at it from a distance, as it is expressed on a wall or screen. Look at it closely, too. 
-
-Then take some notes on your -ism as an image. Here, consider turning language into a picture, pages into space, signs into graphics. As you take notes, feel free to write informally, with screen or paper (or across the two). Try point form or lists of observations. They are notes after all, and I imagine you can address these exercises using somewhere between 250 and 750 words per entry (or per week) this term. The important bit is that you've thought through the exercise at hand, using an altered version of your selected text and -ism. Think of these as exercises in thorough description, if you will.    
-
-Building on [Drucker](http://jenteryteaches.com/noneshall/508/druckerFiguringTheWord.pdf) and [Mitchell](http://jenteryteaches.com/noneshall/508/mitchellWhatPictures.pdf), you might consider some of the questions below while approaching text as image. (No need to address every question in writing, tho.) I've organized the questions using three categories, which we can discuss during seminar.  
-
-### Arrangement and Form
-
-As an image: 
-
-* How is it whole? What are its parts? What brings it together? 
-* How is it bright? Dull? Charged? 
-* What is large or prevalent? What is small or scarce? 
-* What is space doing? Where is it present? Assertive? Reduced? 
-* How does it express time? Movement? Change? 
-* Where are its lines? Where do they go? What do they align? Split? Demarcate? 
-* What are its faces? What do they say or suggest?  
-* What is its aesthetic vision? Does it have an aesthetic vision?
-* Where is its center, and where are its edges? 
-* Where is it consistent, and where is it erratic? 
-
-### Meanings and Subject Matter 
-
-As an image: 
-
-* What is its message? Its effect?
-* What is it a portrait of? An abstraction of? A photograph of? 
-* What are its figures or subjects? How are they placed or arranged? 
-* What is its landscape? How do figures or subjects relate or stand on this landscape? 
-* How would the figures or subjects be classified or categorized? 
-* How is it an instrument of meaning? A vehicle for values? 
-* What is marked? What isn't? What is the default? 
-* How is it legible? Illegible? 
-* What does it represent, and what does it measure? 
-* If it had a caption, then what would that caption be? 
-* If it were a meme, then what would it be? 
-
-### Relations and Entanglements 
-
-As an image: 
-
-* How is it a subject? An object? An interface (or a middle)?
-* How does it prompt dialogue? Recollection? 
-* How does it refuse or invite interaction? Touch? 
-* How is it intimate? Cold? Provocative? Subtle? Boring? Indifferent?  
-* What does it want? What does it ask for? 
-* If it were a person, machine, or nonnhuman animal, then who/what would it be?
-* What does it reflect? Diffract? Absorb? Ignore? 
-
-### Related Reading
-
-If you are interested in the history of writing and graphic signs, then you might want to peruse [Drucker and McVarish's *Graphic Design History*](http://jenteryteaches.com/noneshall/508/druckerMcVarishGraphicDesignHistory.pdf). It's account is quite extensive.  
-
-If you are looking for ways to read scholarly articles and publications, then I recommend [Boyle's "...Something Like a Reading Ethics"](http://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/), especially the "Ethical Reading" section, which Boyle summarizes like so: 
-
- Steps for faster and productive reading
- Overview
- Skim through the work noting the title, chapter, subtitles, indices, etc.
- Read the introduction & conclusion
- Fill in the rest by reading through the work
-
- Engagement
- 
- Exigence (identify the writer’s articulation of the exigence)
- Response (identify what the writer is bringing in response to exigence). 
- Key Terms/Words (locate the key terms and concepts)
- Key Citations (3-4 key citations the work relies on)
- Questions (understanding and critique)
- Speculative Response (speculate how a writer might respond to Questions in Step 5).
+<h2><a id="week3"></a>Week 3 | 18 January | Approaching Texts as Images</h2>
+<p>Next week, we'll approach your selected texts and -isms as images. Initially, can you be quite literal about this? Please photograph at least one page of text, or scan it, or find it online, as a TIFF, JPG, or PNG. Then push the file(s) to your webspace.</p>
+<p>Once you have a version of it as an image file (or multimple image files), consider printing it out and hanging it somewhere. Look at it from a distance, as it is expressed on a wall or screen. Look at it closely, too.</p>
+<p>Then take some notes on your -ism as an image. Here, consider turning language into a picture, pages into space, signs into graphics. As you take notes, feel free to write informally, with screen or paper (or across the two). Try point form or lists of observations. They are notes after all, and I imagine you can address these exercises using somewhere between 250 and 750 words per entry (or per week) this term. The important bit is that you've thought through the exercise at hand, using an altered version of your selected text and -ism. Think of these exercises as acts of thorough description, if you will.</p>
+<p>Building on <a href="http://jenteryteaches.com/noneshall/508/druckerFiguringTheWord.pdf" target="_blank">Drucker</a> and <a href="http://jenteryteaches.com/noneshall/508/mitchellWhatPictures.pdf" target="_blank">Mitchell</a>, you might consider some of the questions below while approaching text as image. (No need to address every question in writing, tho.) I've organized the questions using three categories, which we can discuss during seminar.</p>
+<h3>Arrangement and Form</h3>
+<p>As an image:</p>
+<ul>
+<li>How is it whole? Fragmented? What are its parts? What brings it together?</li>
+<li>How is it bright? Dull? Charged?</li>
+<li>What is large or prevalent? What is small or scarce?</li>
+<li>What is space doing? Where is it present? Assertive? Reduced?</li>
+<li>How does it express time? Movement? Change?</li>
+<li>Where are its lines? Where do they go? What do they align? Split? Demarcate?</li>
+<li>What are its faces? What do they say or suggest?</li>
+<li>What is its aesthetic vision? Does it have an aesthetic vision?</li>
+<li>Where is its center, and where are its edges?</li>
+<li>Where is it consistent, and where is it erratic?</li>
+</ul>
+<h3>Meanings and Subject Matter</h3>
+<p>As an image:</p>
+<ul>
+<li>What is its message? Its effect?</li>
+<li>What is it a portrait of? An abstraction of? A photograph of?</li>
+<li>What are its figures or subjects? How are they placed or arranged?</li>
+<li>What is its landscape? How do figures or subjects relate or stand on this landscape?</li>
+<li>How would the figures or subjects be classified or categorized?</li>
+<li>How is it an instrument of meaning? A vehicle for values?</li>
+<li>What is marked? What isn't? What is the default?</li>
+<li>How is it legible? Illegible?</li>
+<li>What does it represent, and what does it measure?</li>
+<li>If it had a caption, then what would that caption be?</li>
+<li>If it were a meme, then what would it be?</li>
+</ul>
+<h3>Relations and Entanglements</h3>
+<p>As an image:</p>
+<ul>
+<li>How is it a subject? An object? An interface (or a middle)?</li>
+<li>How does it prompt dialogue? Recollection?</li>
+<li>How does it refuse or invite interaction? Touch?</li>
+<li>How is it intimate? Cold? Provocative? Subtle? Boring? Indifferent?</li>
+<li>What does it want? What does it ask for?</li>
+<li>If it were a person, machine, or nonnhuman animal, then who/what would it be?</li>
+<li>What does it reflect? Diffract? Absorb? Ignore?</li>
+</ul>
+<h3>Related Reading</h3>
+<p>If you are interested in the history of writing and graphic design, then you might want to peruse <a target="_blank" href="http://jenteryteaches.com/noneshall/508/druckerMcVarishGraphicDesignHistory.pdf">Drucker and McVarish's <em>Graphic Design History</em></a>. Its account is quite extensive.</p>
+<p>If you are looking for ways to read scholarly articles and publications, then I recommend <a target="_blank" href="http://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/">Boyle's &quot;...Something Like a Reading Ethics,&quot;</a> especially the &quot;Ethical Reading&quot; section, which Boyle summarizes like so:</p>
+<p><em>Steps for faster and productive reading</em></p>
+<p>Overview</p>
+<ol><ol>
+<li>Skim through the work noting the title, chapter, subtitles, indices, etc.</li>
+<li>Read the introduction &amp; conclusion</li>
+<li>Fill in the rest by reading through the work</li>
+</ol></ol>
+<p><em>Engagement</em></p>
+<ol><ol>
+  <li>Exigence (identify the writer's articulation of the exigence)</li>
+  <li>Response (identify what the writer is bringing in response to exigence).</li>
+  <li>Key Terms/Words (locate the key terms and concepts)</li>
+  <li>Key Citations (3-4 key citations the work relies on)</li>
+  <li>Questions (understanding and critique)</li>
+  <li>Speculative Response (speculate how a writer might respond to Questions in Step 5). (See <a target="_blank" href="http://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/">Boyle 2016</a>: n. pag.)</li>
+</ol></ol>
 
 <h2><a id="week2"></a>Week 2 | 11 January | More on the Notion of "Speculation"</h2>
 <p>Picking up on our conversation last week, especially questions about &quot;what if&quot; analysis, below are a few ways we might approach speculation as inquiry.</p>
