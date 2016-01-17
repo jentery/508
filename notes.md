@@ -6,9 +6,9 @@ Next week, we'll approach your selected texts and -isms as images. Initially, ca
 
 Once you have a version of it as an image file, consider printing it out and hanging it somewhere. Look at it from a distance, as it is expressed on a wall or screen. Look at it closely, too. 
 
-Then take some notes on your -ism as an image. Here, consider turning language into a picture, pages into space, signs into graphics. As you take notes, feel free to write informally, on screen or paper. They are notes after all, and I imagine you can address these issues using somewhere between 250 and 750 words per entry this term. The important bit is that you've thought through the exercise at hand, using an altered version of your selected text and -ism.    
+Then take some notes on your -ism as an image. Here, consider turning language into a picture, pages into space, signs into graphics. As you take notes, feel free to write informally, with screen or paper (or across the two). Try point form or lists of observations. They are notes after all, and I imagine you can address these exercises using somewhere between 250 and 750 words per entry (or per week) this term. The important bit is that you've thought through the exercise at hand, using an altered version of your selected text and -ism. Think of these as exercises in thorough description, if you will.    
 
-Building on [Drucker](http://jenteryteaches.com/noneshall/508/druckerFiguringTheWord.pdf) and [Mitchell](http://jenteryteaches.com/noneshall/508/mitchellWhatPictures.pdf), you might consider some of the questions below to approach text as image. I've organized the questions into the three categories, which we can discuss during seminar.  
+Building on [Drucker](http://jenteryteaches.com/noneshall/508/druckerFiguringTheWord.pdf) and [Mitchell](http://jenteryteaches.com/noneshall/508/mitchellWhatPictures.pdf), you might consider some of the questions below while approaching text as image. (No need to address every question in writing, tho.) I've organized the questions using three categories, which we can discuss during seminar.  
 
 ### Arrangement and Form
 
@@ -21,7 +21,7 @@ As an image:
 * How does it express time? Movement? Change? 
 * Where are its lines? Where do they go? What do they align? Split? Demarcate? 
 * What are its faces? What do they say or suggest?  
-* What is its aesthetic vision? Does it have a vision?
+* What is its aesthetic vision? Does it have an aesthetic vision?
 * Where is its center, and where are its edges? 
 * Where is it consistent, and where is it erratic? 
 
@@ -31,7 +31,7 @@ As an image:
 
 * What is its message? Its effect?
 * What is it a portrait of? An abstraction of? A photograph of? 
-* What are its figures or subjects? How are they placed? 
+* What are its figures or subjects? How are they placed or arranged? 
 * What is its landscape? How do figures or subjects relate or stand on this landscape? 
 * How would the figures or subjects be classified or categorized? 
 * How is it an instrument of meaning? A vehicle for values? 
@@ -50,13 +50,29 @@ As an image:
 * How does it refuse or invite interaction? Touch? 
 * How is it intimate? Cold? Provocative? Subtle? Boring? Indifferent?  
 * What does it want? What does it ask for? 
-* If it were a person, who would it be? How about a nonhuman animal? Machine? Plant? 
+* If it were a person, machine, or nonnhuman animal, then who/what would it be?
 * What does it reflect? Diffract? Absorb? Ignore? 
 
-See also, on early history of writing and graphic signs, http://jenteryteaches.com/noneshall/508/druckerMcVarishGraphicDesignHistory.pdf
+### Related Reading
 
-See Boyle http://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/
+If you are interested in the history of writing and graphic signs, then you might want to peruse [Drucker and McVarish's *Graphic Design History*](http://jenteryteaches.com/noneshall/508/druckerMcVarishGraphicDesignHistory.pdf). It's account is quite extensive.  
 
+If you are looking for ways to read scholarly articles and publications, then I recommend [Boyle's "...Something Like a Reading Ethics"](http://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/), especially the "Ethical Reading" section, which Boyle summarizes like so: 
+
+ Steps for faster and productive reading
+ Overview
+ Skim through the work noting the title, chapter, subtitles, indices, etc.
+ Read the introduction & conclusion
+ Fill in the rest by reading through the work
+
+ Engagement
+ 
+ Exigence (identify the writer’s articulation of the exigence)
+ Response (identify what the writer is bringing in response to exigence). 
+ Key Terms/Words (locate the key terms and concepts)
+ Key Citations (3-4 key citations the work relies on)
+ Questions (understanding and critique)
+ Speculative Response (speculate how a writer might respond to Questions in Step 5).
 
 <h2><a id="week2"></a>Week 2 | 11 January | More on the Notion of "Speculation"</h2>
 <p>Picking up on our conversation last week, especially questions about &quot;what if&quot; analysis, below are a few ways we might approach speculation as inquiry.</p>
