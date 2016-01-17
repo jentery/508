@@ -1,6 +1,6 @@
 # Notes 
 
-<h2><a id="week2"></a>Week 2 | 11 January | Survey Some -Isms</h2>
+<h2><a id="week2"></a>Week 2 | 11 January | More on the Notion of "Speculation"</h2>
 <p>Picking up on our conversation last week, especially questions about &quot;what if&quot; analysis, below are a few ways we might approach speculation as inquiry.</p>
 <h3 id="speculating-about">Speculating About</h3>
 <p>In this paradigm, speculation might be historically oriented, anchored in what could or might have happened but nevertheless cannot be proved. In this sense, it may be about absences in the historical record or versions of historical materials (e.g., drafts, witnesses, editions, omissions, redactions, and remediations).</p>
@@ -27,7 +27,7 @@
 <p>This week I've been thinking through the rhetoric of care and repair, and I wonder if it entails the assumption that something or someone needs to be fixed. Put differently, does it pathologize texts or history (to &quot;restore&quot; them)? Does it depend on a sort of critical hubris? While prototyping texts, can we have a care and repair paradigm without an investment in &quot;whole texts&quot; or &quot;complete history&quot;? For me, it seems like stewardship (as a critical or creative practice) is crucial here. So, too, are questions of agency: where do we locate it in acts of care, repair, interpretation, alteration, or prototyping? How is about what texts, contexts, and critics do together?</p>
 
 
-## Week 1 | 4 January | Interpretation through Alteration
+## Week 1 | 4 January | Motivations and Aims for the Seminar
 
 Hello! Welcome to 508. I'm looking forward to it. At some point during our first meeting, we should introduce ourselves and briefly review the [syllabus](index.html), which is also available in [PDF](syllabus.pdf). After you read the syllabus, please let me know of any concerns.   
 
