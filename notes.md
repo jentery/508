@@ -1,5 +1,63 @@
 # Notes 
 
+## Week 3 | 18 January | Approaching Texts as Images 
+
+Next week, we'll approach your selected texts and -isms as images. Initially, can you be quite literal about this? Please photograph at least one page of text, or scan it, or find it online, as a TIFF, JPG, or PNG. Then push the file(s) to your webspace.  
+
+Once you have a version of it as an image file, consider printing it out and hanging it somewhere. Look at it from a distance, as it is expressed on a wall or screen. Look at it closely, too. 
+
+Then take some notes on your -ism as an image. Here, consider turning language into a picture, pages into space, signs into graphics. As you take notes, feel free to write informally, on screen or paper. They are notes after all, and I imagine you can address these issues using somewhere between 250 and 750 words per entry this term. The important bit is that you've thought through the exercise at hand, using an altered version of your selected text and -ism.    
+
+Building on [Drucker](http://jenteryteaches.com/noneshall/508/druckerFiguringTheWord.pdf) and [Mitchell](http://jenteryteaches.com/noneshall/508/mitchellWhatPictures.pdf), you might consider some of the questions below to approach text as image. I've organized the questions into the three categories, which we can discuss during seminar.  
+
+### Arrangement and Form
+
+As an image: 
+
+* How is it whole? What are its parts? What brings it together? 
+* How is it bright? Dull? Charged? 
+* What is large or prevalent? What is small or scarce? 
+* What is space doing? Where is it present? Assertive? Reduced? 
+* How does it express time? Movement? Change? 
+* Where are its lines? Where do they go? What do they align? Split? Demarcate? 
+* What are its faces? What do they say or suggest?  
+* What is its aesthetic vision? Does it have a vision?
+* Where is its center, and where are its edges? 
+* Where is it consistent, and where is it erratic? 
+
+### Meanings and Subject Matter 
+
+As an image: 
+
+* What is its message? Its effect?
+* What is it a portrait of? An abstraction of? A photograph of? 
+* What are its figures or subjects? How are they placed? 
+* What is its landscape? How do figures or subjects relate or stand on this landscape? 
+* How would the figures or subjects be classified or categorized? 
+* How is it an instrument of meaning? A vehicle for values? 
+* What is marked? What isn't? What is the default? 
+* How is it legible? Illegible? 
+* What does it represent, and what does it measure? 
+* If it had a caption, then what would that caption be? 
+* If it were a meme, then what would it be? 
+
+### Relations and Entanglements 
+
+As an image: 
+
+* How is it a subject? An object? An interface (or a middle)?
+* How does it prompt dialogue? Recollection? 
+* How does it refuse or invite interaction? Touch? 
+* How is it intimate? Cold? Provocative? Subtle? Boring? Indifferent?  
+* What does it want? What does it ask for? 
+* If it were a person, who would it be? How about a nonhuman animal? Machine? Plant? 
+* What does it reflect? Diffract? Absorb? Ignore? 
+
+See also, on early history of writing and graphic signs, http://jenteryteaches.com/noneshall/508/druckerMcVarishGraphicDesignHistory.pdf
+
+See Boyle http://caseyboyle.net/2016/01/16/something-like-a-reading-ethics/
+
+
 <h2><a id="week2"></a>Week 2 | 11 January | More on the Notion of "Speculation"</h2>
 <p>Picking up on our conversation last week, especially questions about &quot;what if&quot; analysis, below are a few ways we might approach speculation as inquiry.</p>
 <h3 id="speculating-about">Speculating About</h3>
