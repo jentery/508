@@ -1,5 +1,68 @@
 # Notes 
 
+<h2><a id="week4"></a>Week 4 | 25 January | Approaching Texts as Metadata</h2>
+
+<p>The prototyping process for Week 5 will be about expressing your selected texts as metadata, or data about data, which is central to how materials are classified, archived, searched, and found. If you are new to metadata, then think about how music in iTunes is categorized and sorted (genre, date, album, composer). You might also check out the <a href="http://dublincore.org/documents/dces/" target="_blank">Dublin Core element set</a>. (Dublin as in Ohio, not Ireland.) It's a flexible (perhaps too flexible?) vocabulary for describing materials, and it's commonly used across collections platforms, such as <a href="http://omeka.net/" target="_blank">Omeka</a>.</p>
+
+<p>As you prototype your text as metadata, please create ten metadata fields for your text and populate data for each field. Then interpret the text as metadata, using however many words you deem appropriate (again, 250 to 750 words seems reasonable to me). For your ten fields, feel free to borrow from Dublin Core or <a href="http://www.jiscdigitalmedia.ac.uk/guide/controlling-your-language-links-to-metadata-vocabularies/" target="_blank">another schema or vocabulary</a>. I encourage you to cook up your own fields, too, perhaps in combination with existing standards. Freewheeling approaches to cooking up metadata without controlled vocabularies are typically called <a href="https://upload.wikimedia.org/wikipedia/en/d/d6/Bob_Dylan_-_The_Freewheelin'_Bob_Dylan.jpg" target="_blank">"folksonomic."</a></p>
+
+<p>Before or as you work with your text as metadata, please also give <a href="http://jenteryteaches.com/noneshall/508/schnappSmallData.pdf" target="_blank">Schnapp's "Small Data"</a> a read. For me, four gestures in that chapter seem especially relevant to this particular exercise:</p>
+<ul>
+  <li>"How might we get 'closer' to objects, so to speak, even as we translate them into the realm of information?"</li>
+  <li>"[W]here might the stuff of 'poetry' lie in the metadata and media?"</li>
+  <li>"[L]et us compare how the New York MoMA and Amazon.com describe the same item online: the Bialetti Moka Express . . ."</li>
+  <li>"No one representation, whether text record or video clip or photograph or sound file, puts itself forward as the definitive portrait . . ."</li>
+</ul>
+<p>Which is to say, we might consider how acts of description facilitate interpretation and close reading (as opposed to distancing us from materials), why ambiguity or irony might inform metadata production, how metadata is a creative act, how and why several platforms or vocabularies describe the same object differently (and to what effects), why no single metadata record will fully describe or "capture" a single object, and how metadata differs from&mdash;and intersects or relates with&mdash;other forms of description, including images, sound, video, and graphical expression.</p>
+
+<p>Perhaps helpful, perhaps not, I've included some questions to consider while translating your text into metadata:</p>
+
+<h3>Structure</h3>
+<p>As metadata:</p>
+<ul>
+<li>How is it a component part (page, chapter, section)? How is it grouped?</li>
+<li>How is it a number? How is it data?</li>
+<li>How is it a physical object? How is it bounded?</li>
+<li>How is it navigated? How is it tethered to people's expectations of things like it?</li>
+</ul>
+
+<h3>Description</h3>
+<p>As metadata:</p>
+<ul>
+<li>How is it generic? How is it like many other things of its sort?</li>
+<li>How is part of history? In relation to what other materials?</li>
+<li>How is it tagged with keywords or topics? How is it situated in time and space?</li>
+<li>How is it an abstract? A title? A product of its author(s)?</li>
+<li>How would it be listed in a dropdown menu?</li>
+<li>How is it flat?</li>
+<li>What hashtag would you give it?</li>
+</ul>
+
+<h3>Discoverability</h3>
+<p>As metadata:</p>
+<ul>
+<li>How is it a keyword? How and to what effects does it become a search term?</li>
+<li>How is it unique or curious as a search term?</li>
+<li>How is it found? How and to what effects is it an object on demand?</li>
+<li>What other texts would be found (as search results) along with it?</li>
+<li>How would it be found as text? As image? As document? As record? As . . . ?</li>
+<li>If you put it in a box, then how would you label or code that box?</li>
+</ul>
+
+<h3>Miscellaneous</h3>
+<p>As metadata:</p>
+<ul>
+<li>How is it difficult to describe or categorize? How is it ambiguous? How is it already quite a few?</li>
+<li>How is it amusing? Elliptical? How does it play with existing categories?</li>
+<li>How is it not a format? Not information? Not part of a group?</li>
+<li>Why would it, or parts of it, not be easily found?</li>
+<li>When and why does it demand a text input field (as opposed to a dropdown menu)?</li>
+<li>How is it round?</li>
+<li>How would someone stumble upon it? What is its relation to serendipity?</li>
+</ul>
+
+<p>As you read through these questions, let me know of any concerns, including any concerns about Dublin Core or the gestures Schnapp makes throughout his chapter. Thank you!</p>
+
 <h2><a id="week3"></a>Week 3 | 18 January | Approaching Texts as Images</h2>
 <p>Next week, we'll approach your selected texts and -isms as images. Initially, can you be quite literal about this? Please photograph at least one page of text, or scan it, or find it online, as a TIFF, JPG, or PNG. Then push the file(s) to your webspace.</p>
 <p>Once you have a version of it as an image file (or multimple image files), consider printing it out and hanging it somewhere. Look at it from a distance, as it is expressed on a wall or screen. Look at it closely, too.</p>
